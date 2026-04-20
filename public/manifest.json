@@ -1,12 +1,18 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Saros Wiki - Release Date, Story & Combat Guide",
+  "short_name": "Saros Wiki",
+  "description": "Track Saros release date, trailers, story details, characters, combat systems, editions, and PS5 Pro features in one clean fan wiki hub.",
+  "id": "/",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "lang": "en-US",
+  "dir": "ltr",
+  "theme_color": "#e0801b",
+  "background_color": "#120a07",
+  "categories": ["games", "entertainment", "news", "reference"],
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -21,8 +27,8 @@
       "purpose": "any maskable"
     },
     {
-      "src": "/favicon-16x16.png",
-      "sizes": "16x16",
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
       "type": "image/png"
     },
     {
@@ -31,9 +37,23 @@
       "type": "image/png"
     },
     {
-      "src": "/apple-touch-icon.png",
-      "sizes": "180x180",
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
       "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Latest Saros News",
+      "short_name": "News",
+      "description": "Open Saros news updates and announcements.",
+      "url": "/news"
+    },
+    {
+      "name": "Saros Trailers",
+      "short_name": "Trailers",
+      "description": "Watch Saros trailer breakdowns and reveals.",
+      "url": "/trailers"
     }
   ]
 }
