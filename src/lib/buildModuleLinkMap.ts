@@ -35,25 +35,25 @@ const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
 // Extra semantic keywords per module to boost matching for h2 titles
 // These supplement the module title text when matching against articles
 const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
-  lucidBlocksBeginnerGuide: ['guide', 'mastering', 'progression', 'crafting', 'starter'],
-  lucidBlocksApotheosisCrafting: ['apotheosis', 'fusion', 'essence'],
-  lucidBlocksToolsAndWeapons: ['crafting recipes', 'frost pick', 'osmium', 'azrael', 'faith wand'],
-  lucidBlocksStorageAndInventory: ['chest', 'cache cube', 'cabinet', 'storage'],
-  lucidBlocksQualiaAndBaseBuilding: ['qualia', 'clonaqualia', 'personal dimensions'],
-  lucidBlocksWorldRegions: ['tiamana', 'leyline', 'biomes', 'regions'],
-  lucidBlocksCreaturesAndEnemies: ['survival', 'combat', 'surreal creatures'],
-  lucidBlocksMobilityGear: ['bee glider', 'hookshot', 'glider', 'movement'],
-  lucidBlocksFarmingAndGrowth: ['seed', 'farming', 'growth', 'material', 'progression', 'crafting'],
-  lucidBlocksBestEarlyUnlocks: ['early', 'osmium', 'frost pick', 'starter', 'progression'],
-  lucidBlocksAchievementTracker: ['achievement', 'tiamana', 'leyline'],
-  lucidBlocksSingleplayerAndPlatformFAQ: ['multiplayer', 'platform', 'co op'],
-  lucidBlocksSteamDeckAndController: ['steam deck', 'controller', 'proton'],
-  lucidBlocksSettingsAndAccessibility: ['full screen', 'controls', 'display'],
-  lucidBlocksUpdatesAndPatchNotes: ['update', 'patch', 'fix'],
-  lucidBlocksCrashFixAndTroubleshooting: ['crash', 'vulkan', 'troubleshooting', 'full screen', 'controls', 'gameplay'],
+  lucidBlocksBeginnerGuide: ['release date', 'launch', 'early access', 'preload', 'release time', 'demo'],
+  lucidBlocksApotheosisCrafting: ['trailer', 'cinematic', 'gameplay reveal', 'preview', 'overview'],
+  lucidBlocksToolsAndWeapons: ['gameplay overview', 'loadout', 'soltari shield', 'power weapon', 'biome', 'boss'],
+  lucidBlocksStorageAndInventory: ['story', 'setting', 'carcosa', 'arjun devraj', 'the passage', 'death loop'],
+  lucidBlocksQualiaAndBaseBuilding: ['platforms', 'playstation 5', 'ps5 pro', 'ps4', 'exclusive'],
+  lucidBlocksWorldRegions: ['pc', 'steam', 'launch scope', 'platform status', 'faq'],
+  lucidBlocksCreaturesAndEnemies: ['editions', 'standard edition', 'digital deluxe', 'pre-order bonus', 'price'],
+  lucidBlocksMobilityGear: ['news', 'timeline', 'hands-on', 'gameplay update', 'launch confirmed'],
+  lucidBlocksFarmingAndGrowth: ['combat guide', 'shield conversion', 'dodge', 'melee', 'eclipse bullets', 'bosses'],
+  lucidBlocksBestEarlyUnlocks: ['progression', 'armor matrix', 'the passage', 'retained weapons', 'world dial'],
+  lucidBlocksAchievementTracker: ['difficulty', 'run length', 'retry pace', 'challenge tuning', 'accessibility'],
+  lucidBlocksSingleplayerAndPlatformFAQ: ['eclipse', 'corruption', 'enemy patterns', 'risk reward', 'power weapon'],
+  lucidBlocksSteamDeckAndController: ['characters', 'cast', 'arjun devraj', 'voice actor', 'imdb'],
+  lucidBlocksSettingsAndAccessibility: ['returnal comparison', 'vs returnal', 'progression model', 'run pacing', 'narrative'],
+  lucidBlocksUpdatesAndPatchNotes: ['multiplayer', 'co-op', 'cross-play', 'remote play', 'playstation plus'],
+  lucidBlocksCrashFixAndTroubleshooting: ['ps5 pro', 'pssr', 'frame rate', 'dualsense', 'tempest 3d', 'ssd loading'],
 }
 
-const FILLER_WORDS = ['lucid', 'blocks', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
+const FILLER_WORDS = ['saros', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
 
 function normalize(text: string): string {
   return text
@@ -77,9 +77,9 @@ function matchScore(queryText: string, article: ArticleWithType, extraKeywords?:
 
   let score = 0
 
-  // Exact phrase match in title (stripped of "Lucid Blocks")
-  const strippedQuery = normalizedQuery.replace(/lucid blocks?\s*/g, '').trim()
-  const strippedTitle = normalizedTitle.replace(/lucid blocks?\s*/g, '').trim()
+  // Exact phrase match in title (stripped of theme word)
+  const strippedQuery = normalizedQuery.replace(/saros\s*/g, '').trim()
+  const strippedTitle = normalizedTitle.replace(/saros\s*/g, '').trim()
   if (strippedQuery.length > 3 && strippedTitle.includes(strippedQuery)) {
     score += 100
   }
