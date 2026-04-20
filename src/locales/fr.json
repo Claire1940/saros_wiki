@@ -1,967 +1,913 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Téléchargement de la démo, Guide de coopération, Fabrication et Mods",
-      "description": "Centre de ressources complet pour Lucid Blocks ! Obtenez des informations sur le téléchargement de la démo, des guides pour débutants, des stratégies de coopération, des conseils de fabrication, des commandes, des mods et des liens communautaires pour le jeu de braquage furtif sur Steam.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, téléchargement de la démo, guide pour débutants, guide de coopération, fabrication, équipement, mods, BepInEx, jeu Steam, jeu furtif",
-      "ogTitle": "Lucid Blocks Wiki - Téléchargement de la démo, Guide de coopération, Fabrication et Mods",
-      "ogDescription": "Centre de ressources complet pour Lucid Blocks ! Obtenez des informations sur le téléchargement de la démo, des guides pour débutants, des stratégies de coopération, des conseils de fabrication et des mods pour le jeu de braquage furtif sur Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Téléchargement de la démo, Guide de coopération, Fabrication et Mods",
-      "twitterDescription": "Centre de ressources complet pour Lucid Blocks ! Obtenez des informations sur le téléchargement de la démo, des guides pour débutants, des stratégies de coopération et des conseils de fabrication."
+      "title": "Wiki Saros - Date de sortie, histoire, combat et fonctionnalités PS5 Pro",
+      "description": "Le Wiki Saros suit les étapes de sortie de Saros, les bandes-annonces, les détails de l'histoire, les systèmes de combat, les éditions et les fonctionnalités PS5 Pro dans un hub centralisé.",
+      "keywords": "Saros, wiki Saros, date de sortie Saros, bande-annonce Saros, histoire Saros, combat Saros, Saros PS5 Pro",
+      "ogTitle": "Wiki Saros - Date de sortie, histoire, combat et fonctionnalités PS5 Pro",
+      "ogDescription": "Suivez les actualités du lancement de Saros, les analyses de gameplay, les guides d'histoire, les différences entre les éditions et les détails de la PS5 Pro en un seul endroit.",
+      "twitterTitle": "Wiki Saros - Date de sortie, histoire, combat et fonctionnalités PS5 Pro",
+      "twitterDescription": "Suivez les mises à jour de la sortie de Saros, les bandes-annonces, les guides d'histoire, les conseils de combat et les points forts de la PS5 Pro."
     }
   },
   "nav": {
-    "release": "Release",
-    "platforms": "Platforms",
+    "release": "Sortie",
+    "platforms": "Plateformes",
     "guide": "Guide",
-    "editions": "Editions",
-    "reviews": "Reviews",
-    "media": "Media",
-    "cast": "Cast",
+    "editions": "Éditions",
+    "reviews": "Avis",
+    "media": "Médias",
+    "cast": "Distribution",
     "studio": "Studio"
   },
   "common": {
     "home": "Accueil",
     "more": "Plus",
-    "playNow": "Obtenir la démo",
+    "playNow": "Jouer sur PlayStation 5",
     "switchLanguage": "Changer de langue",
     "switchTheme": "Changer de thème",
     "lightMode": "Mode clair",
     "darkMode": "Mode sombre",
-    "notFound": "Page introuvable",
+    "notFound": "Page non trouvée",
     "notFoundDescription": "La page que vous recherchez n'existe pas.",
     "backToHome": "Retour à l'accueil",
-    "relatedArticles": "Articles similaires",
-    "readMore": "En savoir plus"
+    "relatedArticles": "Articles connexes",
+    "readMore": "Lire la suite",
+    "loading": "Chargement du contenu"
   },
   "hero": {
-    "badge": "Minuscules gnomes. Grandes maisons. Braquages furtifs entre amis.",
-    "title": "Lucid Blocks wiki",
-    "description": "Votre centre pour Lucid Blocks : comment fonctionnent les braquages, les tâches de Haut-Gnome, la fabrication et les améliorations, les ennemis, les commandes et les moyens les plus rapides de survivre à chaque partie.",
-    "getFreeCodesCTA": "Télécharger la démo",
-    "playOnSteamCTA": "Ajouter à la liste de souhaits sur Steam",
+    "badge": "Shooter d'action de science-fiction PS5",
+    "title": "SAROS",
+    "description": "Un hub dédié à Saros pour les étapes de la date de sortie, les déploiements de bandes-annonces, le contexte de l'histoire, les systèmes de combat, les éditions et les améliorations PS5 Pro.",
+    "getFreeCodesCTA": "Chronologie de la sortie de Saros",
+    "playOnSteamCTA": "Page officielle de Saros",
     "stats": {
       "stat1": {
-        "value": "15K",
-        "label": "Pic de CCU (Démo)"
+        "value": "30 avr. 2026",
+        "label": "Date de sortie de Saros"
       },
       "stat2": {
-        "value": "6",
-        "label": "Joueurs en coopération"
+        "value": "69,99 $",
+        "label": "Prix standard de Saros"
       },
       "stat3": {
-        "value": "31/01/2026",
-        "label": "Sortie de la démo"
+        "value": "1,1M+",
+        "label": "Vues de la bande-annonce de Saros"
       },
       "stat4": {
-        "value": "PC (Steam)",
-        "label": "Plateforme"
+        "value": "4,3K",
+        "label": "Membres Reddit de Saros"
       }
     }
   },
   "gameFeature": {
-    "title": "Gameplay de Lucid Blocks",
-    "description": "Regardez de minuscules gnomes réaliser de gros braquages dans des missions furtives chaotiques en coopération à 6 joueurs !"
+    "title": "Focus sur le gameplay de Saros",
+    "description": "Consultez le flux de combat de Saros, les systèmes de progression, la mise en place de l'histoire et les points forts des performances PS5 à partir des documents officiels."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Ressources",
-    "subtitle": "Tout ce dont vous avez besoin pour maîtriser les braquages et la furtivité en coopération",
+    "title": "Saros",
+    "titleHighlight": "Navigation par module",
+    "subtitle": "Accédez à tous les modules de la page d'accueil de Saros et explorez chaque section thématique dans l'ordre.",
     "cards": [
       {
-        "icon": "Télécharger",
-        "title": "Téléchargement de la démo",
-        "description": "Obtenez la démo gratuite sur Steam"
-      },
-      {
         "icon": "BookOpen",
-        "title": "Guide du débutant",
-        "description": "Boucle de base et pièges courants"
+        "title": "Date de sortie de Saros",
+        "description": "Chronologie officielle de l'annonce au lancement complet"
       },
       {
-        "icon": "Utilisateurs",
-        "title": "Guide de coopération",
-        "description": "Rôles à 6 joueurs et tactiques de sauvetage"
+        "icon": "Sparkles",
+        "title": "Bande-annonce de Saros",
+        "description": "Vidéos cinématiques, de gameplay et de la période de lancement"
       },
       {
-        "icon": "ClipboardCheck",
-        "title": "Tâches et objectifs",
-        "description": "Ce que le Haut-Gnome attend de vous"
-      },
-      {
-        "icon": "Clavier",
-        "title": "Commandes et raccourcis clavier",
-        "description": "Touches par défaut et comment les modifier"
-      },
-      {
-        "icon": "Bouclier",
-        "title": "Paramètres de contenu",
-        "description": "Contenu pour adultes et options d'activation/désactivation"
-      },
-      {
-        "icon": "Marteau",
-        "title": "Fabrication et équipement",
-        "description": "Équipez-vous avec des matériaux volés"
+        "icon": "Hammer",
+        "title": "Aperçu du gameplay de Saros",
+        "description": "Boucle de jeu, systèmes de combat et rythme des boss"
       },
       {
         "icon": "Package",
-        "title": "Butin et objets",
-        "description": "Quoi voler et conseils de transport"
+        "title": "Histoire et univers de Saros",
+        "description": "Carcosa, Arjun et structure narrative"
+      },
+      {
+        "icon": "Home",
+        "title": "Plateformes de Saros",
+        "description": "PS5 confirmée, PS5 Pro améliorée, PS4 non disponible"
+      },
+      {
+        "icon": "Eye",
+        "title": "Statut PC et Steam de Saros",
+        "description": "Statut officiel PC et Steam au lancement"
       },
       {
         "icon": "AlertTriangle",
-        "title": "Ennemis et dangers",
-        "description": "Menaces et comment les gérer"
+        "title": "Précommande et éditions de Saros",
+        "description": "Standard vs Digital Deluxe avec détails des bonus"
       },
       {
-        "icon": "Oeil",
-        "title": "Furtivité et évasion",
-        "description": "Restez caché et extrayez-vous en toute sécurité"
-      },
-      {
-        "icon": "Accueil",
-        "title": "Améliorations de la maison",
-        "description": "Améliorez votre base d'île flottante"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Communauté et Discord",
-        "description": "Liens officiels et recherche de groupe"
-      },
-      {
-        "icon": "Paramètres",
-        "title": "Mods et BepInEx",
-        "description": "Installer le framework et configurer les mods"
-      },
-      {
-        "icon": "Étoile",
-        "title": "Mods populaires",
-        "description": "Meilleures sélections et fonctionnalités de la communauté"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Prise en charge de la manette",
-        "description": "Jeu complet à la manette avec curseur d'interface utilisateur"
+        "icon": "ArrowRight",
+        "title": "Actualités de Saros",
+        "description": "Révélations chronologiques, gameplay et mises à jour techniques"
       },
       {
         "icon": "TrendingUp",
-        "title": "Nombre de joueurs et tendance",
-        "description": "Statistiques en direct et suivi des pics"
+        "title": "Guide de combat de Saros",
+        "description": "Flux d'étapes pour l'absorption de bouclier, le timing des rafales et la pression sur les boss"
+      },
+      {
+        "icon": "Star",
+        "title": "Système de progression de Saros",
+        "description": "Passage, Armor Matrix et croissance persistante entre les sessions"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Difficulté et durée des sessions de Saros",
+        "description": "Durée des sessions, rythme des tentatives et aperçu de l'ajustement du défi"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Système Eclipse de Saros",
+        "description": "Comment Saros Eclipse modifie les dangers, les ennemis et les récompenses"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Personnages et distribution de Saros",
+        "description": "Arjun Devraj, Sheridan et l'ensemble du Passage en un coup d'œil"
+      },
+      {
+        "icon": "Settings",
+        "title": "Comparaison avec Returnal",
+        "description": "Différences de direction, plateforme, progression, rythme et combat"
+      },
+      {
+        "icon": "Clock",
+        "title": "Multijoueur et coopération de Saros",
+        "description": "Portée du multijoueur de Saros, statut de la coopération et notes sur le Remote Play"
+      },
+      {
+        "icon": "Shield",
+        "title": "Fonctionnalités PS5 Pro de Saros",
+        "description": "Clarté PS5 vs PS5 Pro, taux de rafraîchissement, audio et chargement"
       }
     ]
   },
   "modules": {
-    "demoDownload": {
-      "title": "Téléchargement de la démo de Lucid Blocks",
-      "subtitle": "Obtenez la démo gratuite sur Steam",
-      "downloadSize": "2,62 Gio",
-      "diskSize": "4,88 Gio",
-      "releaseDate": "30 janvier 2026",
-      "price": "Gratuit",
-      "platform": "PC (Steam) / Windows",
-      "engine": "Unity",
-      "primaryCTA": "Télécharger la démo",
-      "secondaryCTA": "Voir les informations techniques",
-      "installPath": "Steam\\steamapps\\common\\Lucid Blocks Demo",
-      "sections": [
-        {
-          "heading": "Où télécharger",
-          "items": [
-            "Ouvrez la page officielle du magasin Steam et utilisez la section \"Télécharger la démo\".",
-            "Si Steam vous demande de vous connecter, connectez-vous d'abord et réessayez."
-          ]
-        },
-        {
-          "heading": "Vérifications rapides d'installation et de lancement",
-          "items": [
-            "Emplacement d'installation par défaut : Dossier de la bibliothèque Steam → steamapps → common → (dossier du jeu).",
-            "Si le jeu ne se lance pas : vérifiez les fichiers du jeu dans Steam, puis redémarrez Steam."
-          ]
-        }
-      ]
-    },
-    "beginnerGuide": {
-      "title": "Guide du débutant de Lucid Blocks",
-      "subtitle": "Maîtrisez la boucle de base et évitez les erreurs courantes",
+    "lucidBlocksBeginnerGuide": {
+      "title": "Date de sortie de Saros",
+      "displayType": "steps",
+      "intro": "Saros est passé d'une large fenêtre pour 2026 à un plan de lancement daté, puis au calendrier final d'avril. Cette chronologie offre une vue rapide et fiable de chaque étape, de la révélation à la sortie complète.",
       "steps": [
         {
-          "number": 1,
-          "title": "Entrer dans la maison",
-          "description": "Descendez dans une maison humaine depuis votre base d'île flottante. Apparaissez à l'extérieur et faufilez-vous par des portes ou des fenêtres déverrouillées."
+          "title": "12 février 2025 : Saros annoncé pour 2026",
+          "description": "Housemarque a présenté Saros pour PlayStation 5 et PlayStation 5 Pro, avec Arjun Devraj et Carcosa présentés comme la configuration centrale."
         },
         {
-          "number": 2,
-          "title": "Effectuer des tâches",
-          "description": "Terminez les tâches du Haut-Gnome avant la fin du temps imparti. Vérifiez les objectifs via la touche Tab et donnez la priorité aux tâches risquées en premier."
+          "title": "24 septembre 2025 : Première fenêtre de sortie datée pour Saros",
+          "description": "La révélation du gameplay a fixé un objectif de lancement initial au 20 mars 2026 avant que la date ne soit révisée ultérieurement dans une communication de suivi."
         },
         {
-          "number": 3,
-          "title": "Voler des objets",
-          "description": "Attrapez des objets de valeur et des matériaux pour la fabrication. Évitez de faire du bruit ou de vous faire repérer par le propriétaire."
+          "title": "11 décembre 2025 : Date de Saros mise à jour au 30 avril",
+          "description": "Housemarque a confirmé le 30 avril 2026 comme nouvelle date de sortie et a ouvert les précommandes de Saros lors du même cycle d'annonce."
         },
         {
-          "number": 4,
-          "title": "S'échapper via une tornade",
-          "description": "Lorsque le minuteur se termine, une tornade apparaît dans la cour - atteignez-la pour vous extraire en toute sécurité. Commencez à bouger tôt !"
+          "title": "28 avril 2026 : Accès anticipé Saros Digital Deluxe",
+          "description": "Le pack Saros Digital Deluxe comprend une fenêtre d'accès anticipé de 48 heures avant le lancement mondial standard."
         },
         {
-          "number": 5,
-          "title": "Améliorer et répéter",
-          "description": "Utilisez les récompenses et les matériaux pour fabriquer de l'équipement à la maison, puis commencez votre prochain braquage avec un meilleur équipement."
+          "title": "30 avril 2026 : Sortie complète de Saros",
+          "description": "La FAQ officielle de Saros et les pages de la boutique s'accordent sur le 30 avril 2026 comme date de lancement complet pour l'édition standard."
         }
-      ],
-      "pitfalls": [
-        {
-          "title": "Se faire prendre",
-          "description": "Le propriétaire vous poursuivra. Restez caché, utilisez des distractions et brisez les lignes de vue pour vous échapper.",
-          "icon": "AlertTriangle"
-        },
-        {
-          "title": "Manque de temps",
-          "description": "Le minuteur de la tornade est strict. Commencez à vous diriger vers l'extraction tôt au lieu de trop piller.",
-          "icon": "Clock"
-        },
-        {
-          "title": "Ignorer ses coéquipiers",
-          "description": "Sauvez rapidement les alliés piégés dans les pièges du réfrigérateur/four - signalez immédiatement pour les sauvetages.",
-          "icon": "Utilisateurs"
-        }
-      ]
-    },
-    "coopGuide": {
-      "title": "Guide de coopération de Lucid Blocks",
-      "subtitle": "Coordonnez-vous avec jusqu'à 6 joueurs pour un chaos maximal",
-      "maxPlayers": 6,
-      "roles": [
-        {
-          "name": "Éclaireur",
-          "description": "Vérifiez les menaces, marquez les chemins sûrs et guidez les mouvements de l'équipe",
-          "icon": "Oeil"
-        },
-        {
-          "name": "Transporteur",
-          "description": "Concentrez-vous sur les objets lourds avec des améliorations de sac à dos et sécurisez la progression des tâches",
-          "icon": "Package"
-        },
-        {
-          "name": "Distraction",
-          "description": "Attirez le propriétaire/les animaux de compagnie loin de l'équipe pour créer des fenêtres sûres",
-          "icon": "Utilisateurs"
-        },
-        {
-          "name": "Sauveteur",
-          "description": "Libérez les coéquipiers piégés du réfrigérateur/four avant qu'ils ne meurent",
-          "icon": "Bouclier"
-        }
-      ],
-      "threats": [
-        "Propriétaire (vous poursuit et vous piège)",
-        "Chats et souris (itinéraires de patrouille)",
-        "Aspirateur robot (danger instantané)",
-        "Limite de temps (extraction par tornade)"
-      ],
-      "communication": "Utilisez le chat vocal (touche V) pour coordonner les tâches et les sauvetages. Annoncez : \"Repéré\", \"Itinéraire\", \"Besoin d'un sauvetage\", \"Extraire bientôt\"."
-    },
-    "tasksObjectives": {
-      "title": "Tâches et objectifs de Lucid Blocks",
-      "subtitle": "Ce que le Haut-Gnome veut : exemples de tâches",
-      "taskTypes": [
-        {
-          "type": "Voler des objets",
-          "examples": [
-            "Attrapez des objets spécifiques marqués par les objectifs du Haut-Gnome"
-          ]
-        },
-        {
-          "type": "Atteindre des lieux",
-          "examples": [
-            "Naviguez vers des zones spécifiées à l'intérieur de la maison"
-          ]
-        },
-        {
-          "type": "Faire des bêtises",
-          "examples": [
-            "Casser une télévision",
-            "Inonder des toilettes",
-            "Créer le chaos"
-          ]
-        }
-      ],
-      "efficiency": [
-        "Effectuez d'abord les tâches risquées pendant que l'équipe est ensemble",
-        "Attribuez un transporteur pour les objets de la tâche afin qu'ils ne soient pas perdus pendant les poursuites",
-        "Commencez à vous déplacer vers l'extraction avant la fin du temps imparti"
-      ]
-    },
-    "controlsKeybinds": {
-      "title": "Commandes et raccourcis clavier de Lucid Blocks",
-      "subtitle": "Commandes clavier par défaut (et où les modifier)",
-      "keybinds": [
-        {
-          "action": "Déplacer à gauche",
-          "key": "A"
-        },
-        {
-          "action": "Déplacer à droite",
-          "key": "D"
-        },
-        {
-          "action": "Avancer",
-          "key": "W"
-        },
-        {
-          "action": "Reculer",
-          "key": "S"
-        },
-        {
-          "action": "S'accroupir",
-          "key": "Ctrl gauche"
-        },
-        {
-          "action": "Attaquer",
-          "key": "Clic gauche"
-        },
-        {
-          "action": "Courir",
-          "key": "Maj gauche"
-        },
-        {
-          "action": "Déposer un objet",
-          "key": "G"
-        },
-        {
-          "action": "Interagir",
-          "key": "E"
-        },
-        {
-          "action": "Sauter",
-          "key": "Espace"
-        },
-        {
-          "action": "Appuyer pour parler",
-          "key": "V"
-        },
-        {
-          "action": "Pousser",
-          "key": "Clic droit"
-        },
-        {
-          "action": "Ragdoll",
-          "key": "Q"
-        },
-        {
-          "action": "Emplacement d'équipement 1",
-          "key": "1"
-        },
-        {
-          "action": "Emplacement d'équipement 2",
-          "key": "2"
-        },
-        {
-          "action": "Emplacement d'équipement 3",
-          "key": "3"
-        },
-        {
-          "action": "Emplacement d'équipement 4",
-          "key": "4"
-        },
-        {
-          "action": "Inventaire",
-          "key": "Tab"
-        }
-      ],
-      "changePath": "Depuis le menu titre : ouvrez PARAMÈTRES, puis vérifiez les paramètres du clavier. Utilisez le champ de recherche pour filtrer les lignes de raccourcis clavier."
-    },
-    "contentSettings": {
-      "title": "Paramètres de contenu de Lucid Blocks",
-      "subtitle": "Contenu pour adultes, activation/désactivation de la nudité et préférences Steam",
-      "descriptors": [
-        "Nudité ou contenu sexuel partiel",
-        "Contenu général pour adultes"
-      ],
-      "details": [
-        {
-          "heading": "Ce que les développeurs déclarent",
-          "items": [
-            "Un humain peut apparaître nu en faisant des activités comme se baigner.",
-            "La nudité est censurée et peut être complètement désactivée en option.",
-            "Les gnomes peuvent être démembrés et mourir de manière brutale."
-          ]
-        },
-        {
-          "heading": "Si Steam bloque la page de la communauté",
-          "items": [
-            "Steam peut masquer le hub de la communauté en fonction de vos préférences de contenu.",
-            "Utilisez \"Mettre à jour les préférences de contenu\" de Steam pour ajuster ce que vous autorisez Steam à afficher."
-          ]
-        }
-      ]
-    },
-    "craftingEquipment": {
-      "title": "Fabrication et équipement de Lucid Blocks",
-      "subtitle": "Équipez-vous : exemples de fabrication et ce que chaque outil fait",
-      "equipment": [
-        {
-          "item": "Sac à dos",
-          "benefit": "Augmente la capacité de l'inventaire pour plus de butin par course"
-        },
-        {
-          "item": "Gants de gnome",
-          "benefit": "Vous permet d'ouvrir des portes et d'interagir avec plus d'objets"
-        },
-        {
-          "item": "Chaussures à ressort",
-          "benefit": "Empêche les dégâts de chute lors des évasions depuis des hauteurs"
-        },
-        {
-          "item": "Arme",
-          "benefit": "Vous aide à combattre les menaces comme les souris lorsque vous êtes acculé"
-        }
-      ],
-      "sections": [
-        {
-          "heading": "Comment la fabrication se connecte au pillage",
-          "items": [
-            "Pendant une course, volez des objets et rapportez-les comme matériaux de fabrication.",
-            "Après l'extraction, les récompenses/matériaux soutiennent de nouvelles fabrications."
-          ]
-        },
-        {
-          "heading": "Amélioration de la base",
-          "items": [
-            "Fabriquez des meubles et améliorez votre maison sur l'île flottante (fonctionnalité du jeu complet)."
-          ]
-        }
-      ]
-    },
-    "lootItems": {
-      "title": "Butin et objets de Lucid Blocks",
-      "subtitle": "Quoi voler : types d'objets, risque et conseils de transport",
-      "categories": [
-        {
-          "type": "Objets de tâche",
-          "examples": [
-            "Objets requis par le Haut-Gnome pour les objectifs"
-          ]
-        },
-        {
-          "type": "Matériaux de fabrication",
-          "examples": [
-            "Objets ménagers réutilisés en équipement et améliorations de gnome"
-          ]
-        },
-        {
-          "type": "Cibles de méfait",
-          "examples": [
-            "Objets impliqués dans des tâches comme casser ou inonder"
-          ]
-        }
-      ],
-      "carryTips": [
-        "Donnez la priorité à la progression de la tâche, puis remplissez la capacité restante avec des matériaux de fabrication",
-        "Si des menaces sont à proximité, déplacez les objets par petits sauts sûrs plutôt que par de longs transports exposés",
-        "Planifiez l'itinéraire vers l'extraction dans la cour avant la fin du temps imparti"
-      ],
-      "riskLevels": [
-        {
-          "level": "Faible",
-          "description": "Près des entrées ou des coins sûrs"
-        },
-        {
-          "level": "Moyen",
-          "description": "Pièces plus profondes ou près des menaces errantes"
-        },
-        {
-          "level": "Élevé",
-          "description": "Près de la patrouille du propriétaire ou de l'aspirateur robot"
-        }
-      ]
-    },
-    "enemiesHazards": {
-      "title": "Ennemis et dangers de Lucid Blocks",
-      "subtitle": "Sachez ce qui peut vous attraper",
-      "threats": [
-        {
-          "name": "Le propriétaire",
-          "trigger": "Se faire repérer en cambriolant ou en effectuant des tâches",
-          "behavior": "Il vous poursuit et essaie de vous attraper",
-          "counter": "Restez furtif, brisez les lignes de vue et continuez à bouger en équipe"
-        },
-        {
-          "name": "Chats",
-          "trigger": "S'approcher trop près ou croiser leur chemin",
-          "behavior": "Ils deviennent une menace directe pendant que vous vous faufilez",
-          "counter": "Évitez leurs itinéraires et passez silencieusement"
-        },
-        {
-          "name": "Souris",
-          "trigger": "Entrer dans des zones où les souris errent",
-          "behavior": "Elles menacent les gnomes fragiles pendant les courses",
-          "counter": "Restez vigilant dans les espaces restreints et soyez prêt à vous retirer"
-        },
-        {
-          "name": "Aspirateur robot",
-          "trigger": "Être sur son chemin de nettoyage",
-          "behavior": "Il peut aspirer les gnomes",
-          "counter": "Écoutez-le, restez en dehors de son itinéraire et repositionnez-vous rapidement"
-        },
-        {
-          "name": "Piège du réfrigérateur / four",
-          "trigger": "Se faire attraper par le propriétaire",
-          "behavior": "Vous pouvez être enfermé à l'intérieur ; si les coéquipiers ne vous sauvent pas à temps, vous mourez",
-          "counter": "Signalez immédiatement ; les coéquipiers donnent la priorité à l'itinéraire de sauvetage"
-        },
-        {
-          "name": "Limite de temps",
-          "trigger": "Le minuteur de course atteint la limite",
-          "behavior": "Une tornade d'extraction apparaît dans la cour ; vous devez l'atteindre pour vous échapper",
-          "counter": "Arrêtez de trop piller, regroupez-vous et engagez-vous à l'extraction tôt"
-        }
-      ]
-    },
-    "stealthEscape": {
-      "title": "Conseils de furtivité et d'évasion de Lucid Blocks",
-      "subtitle": "Volez plus, mourez moins",
-      "do": [
-        "Restez furtif et mettez-vous à couvert avant d'interagir avec des objets",
-        "Utilisez le travail d'équipe : signalez les menaces et coordonnez les itinéraires",
-        "Sauvez rapidement les coéquipiers lorsque quelqu'un est piégé ou à terre",
-        "Réduisez vos pertes et dirigez-vous vers l'extraction lorsque le minuteur est serré"
-      ],
-      "dont": [
-        "Devenez gourmand lorsque l'extraction approche",
-        "Séparez-vous trop de l'équipe lorsque le propriétaire est actif",
-        "Ignorez les itinéraires de l'aspirateur robot ou les patrouilles d'animaux",
-        "Retardez les sauvetages lorsqu'un coéquipier est enfermé"
       ],
       "quickTips": [
+        "Suivez d'abord les mises à jour du lancement de Saros via le PlayStation Blog et les pages officielles du jeu.",
+        "Le calendrier des précommandes et de l'accès anticipé de Saros peut varier selon l'édition, vérifiez donc les détails de l'édition avant l'achat.",
+        "Les messages de déploiement de Saros sont plus faciles à suivre sous forme de chronologie car les dates ont été révisées pendant la promotion.",
+        "La planification du jour de lancement de Saros est plus simple si vous séparez le calendrier de l'accès anticipé de celui de l'édition standard."
+      ]
+    },
+    "lucidBlocksApotheosisCrafting": {
+      "title": "Bande-annonce de Saros",
+      "displayType": "cards",
+      "intro": "La couverture des bandes-annonces de Saros s'étend désormais de l'ambiance de la révélation aux mécaniques de gameplay, en passant par l'accent mis sur l'histoire et les messages sur la fenêtre de lancement. Les regarder dans l'ordre donne l'image la plus claire de la façon dont Saros a été présenté.",
+      "cards": [
         {
-          "title": "La règle des 3 secondes",
-          "text": "Si vous ne pouvez pas expliquer votre prochain mouvement en 3 secondes, vous êtes sur le point de vous faire repérer."
+          "name": "Bande-annonce cinématographique d'annonce de Saros",
+          "description": "La première révélation de Saros présente Arjun Devraj, l'éclipse sur Carcosa et le ton du jeu avant l'apparition des premières images de combat intense."
         },
         {
-          "title": "Sauvetage d'abord",
-          "text": "Un sauvetage rapide maintient la course en vie ; le pillage peut attendre."
+          "name": "Bande-annonce de révélation du gameplay de Saros",
+          "description": "Cette bande-annonce de Saros présente la mobilité du dash, la pression intense des projectiles, l'utilisation du Bouclier Soltari et la conversion d'armes lourdes lors des affrontements actifs."
         },
         {
-          "title": "Discipline d'extraction",
-          "text": "Regroupez-vous tôt et engagez-vous dans la tornade avant que la panique ne commence."
+          "name": "Bande-annonce de précommande de Saros",
+          "description": "Publiée avec la mise à jour de la date, cette séquence de Saros ajoute un cadre narratif plus fort et des moments centrés sur les personnages tout en renforçant les messages sur le lancement."
+        },
+        {
+          "name": "Bande-annonce d'aperçu du gameplay de Saros",
+          "description": "Un récapitulatif compact des systèmes de Saros mettant en avant la structure de progression, les dangers planétaires et les principaux éléments de combat issus de démonstrations plus longues."
+        },
+        {
+          "name": "Bande-annonce de présentation de Saros",
+          "description": "Cette promotion de la fenêtre de lancement de Saros se concentre sur la dynamique de sortie, l'image de marque PS5 et la visibilité des éditions pour les nouveaux joueurs."
+        }
+      ],
+      "milestones": [
+        "Bande-annonce de révélation de Saros publiée",
+        "Révélation du gameplay de Saros publiée",
+        "Bande-annonce de mise à jour de la date de Saros publiée",
+        "Aperçu du gameplay de Saros publié",
+        "Présentation de la fenêtre de lancement de Saros publiée"
+      ]
+    },
+    "lucidBlocksToolsAndWeapons": {
+      "title": "Aperçu du gameplay de Saros",
+      "displayType": "itemCards",
+      "intro": "Le gameplay de Saros dispose de suffisamment de détails officiels pour cartographier la boucle complète d'une session : configuration de l'équipement, pression agressive des balles, progression au Passage et intensification des biomes sous conditions d'éclipse.",
+      "items": [
+        {
+          "name": "Configuration de session et choix d'équipement Saros",
+          "type": "Préparation",
+          "description": "Chaque session de Saros commence par des décisions sur les armes et les atouts parmi des options de matériel Soltari et extraterrestre, définissant votre profil de risque avant le début du combat."
+        },
+        {
+          "name": "Boucle de conversion du Bouclier Soltari dans Saros",
+          "type": "Combat principal",
+          "description": "Saros permet à Arjun d'absorber les projectiles bleus avec le bouclier, de stocker de l'énergie et de convertir cette pression en dégâts d'explosion d'arme lourde."
+        },
+        {
+          "name": "Fenêtres d'armes lourdes dans Saros",
+          "type": "Dégâts d'explosion",
+          "description": "Les affrontements majeurs de Saros récompensent les fenêtres de timing précises où l'énergie stockée du bouclier peut transformer les phases défensives en moments de haute offensive."
+        },
+        {
+          "name": "Le Passage et la Matrice d'Armure de Saros",
+          "type": "Hub Progression",
+          "description": "Le hub de Saros permet une progression persistante grâce aux améliorations de la Matrice d'Armure et aux interactions narratives entre les sessions à haute pression."
+        },
+        {
+          "name": "Couche de risque d'intensification de l'éclipse de Saros",
+          "type": "Risque-Récompense",
+          "description": "Les déclenchements d'éclipse dans Saros augmentent le danger via des attaques corrompues tout en augmentant les récompenses, créant des décisions significatives au niveau de la session."
+        },
+        {
+          "name": "Biomes et conception des phases de boss de Saros",
+          "type": "Encounter Flow",
+          "description": "Les aperçus de Saros montrent des identités de biomes distinctes et un rythme de boss multi-phases basé sur la lecture des mouvements, la discipline face aux projectiles et l'adaptation."
         }
       ]
     },
-    "homeUpgrades": {
-      "title": "Améliorations de la maison de Lucid Blocks",
-      "subtitle": "Fabriquez, construisez, améliorez",
-      "branches": [
+    "lucidBlocksStorageAndInventory": {
+      "title": "Histoire et cadre de Saros",
+      "displayType": "solutionCards",
+      "intro": "L'univers de Saros se concentre sur Carcosa, le mystère d'une colonie perdue et une structure de mort répétée directement liée à la narration et à la progression à long terme.",
+      "solutions": [
         {
-          "branch": "Stockage",
-          "summary": "Transportez plus et rapportez plus",
-          "items": [
-            "Sac à dos (extension d'inventaire)"
-          ]
+          "name": "Prémisse centrale de Saros",
+          "role": "Accroche narrative",
+          "description": "Saros présente une mission hantante sur Carcosa sous une éclipse, où la reconstruction d'un avenir s'accompagne d'un coût personnel et stratégique."
         },
         {
-          "branch": "Utilité",
-          "summary": "Interagissez plus efficacement avec la maison",
-          "items": [
-            "Gants de gnome (vous permet d'ouvrir des portes et plus encore)"
-          ]
+          "name": "Protagoniste de Saros : Arjun Devraj",
+          "role": "Personnage principal",
+          "description": "Arjun Devraj porte le récit de Saros, alliant expertise au combat et un fil conducteur de mission qui relie survie, découverte et conséquences."
         },
         {
-          "branch": "Mobilité",
-          "summary": "Déplacez-vous plus en sécurité dans les espaces verticaux",
-          "items": [
-            "Chaussures à ressort (réduisent les dégâts de chute)"
-          ]
+          "name": "Planète de Saros : Carcosa",
+          "role": "Cadre du monde",
+          "description": "Carcosa est un environnement extraterrestre changeant dans Saros, défini par des ruines, une vie hostile, des systèmes hérités et une incertitude répétée entre les sessions."
         },
         {
-          "branch": "Défense",
-          "summary": "Gérez les petites menaces si nécessaire",
-          "items": [
-            "Armes (pour les menaces comme les souris)"
-          ]
+          "name": "Hub de Saros : The Passage",
+          "role": "Hub narratif",
+          "description": "The Passage dans Saros sert de point de retour pour les moments clés de l'histoire, les interactions avec l'équipage et la planification de la progression avant la prochaine expédition."
         },
         {
-          "branch": "Base d'attache",
-          "summary": "Fabriquez des meubles et améliorez votre maison sur l'île flottante",
-          "items": [
-            "Améliorations de meubles fonctionnels"
-          ]
+          "name": "Boucle de mort et de retour de Saros",
+          "role": "Structure narrative",
+          "description": "Saros utilise la résurrection à la fois comme mécanique narrative et pilier du gameplay, faisant de chaque échec une étape d'une progression plus large."
+        },
+        {
+          "name": "Méthodes de narration de Saros",
+          "role": "Présentation",
+          "description": "La narration de Saros mélange cinématiques, voix hors champ, journaux de bord, dialogues de PNJ et indices environnementaux pour révéler le contexte au fil des sessions répétées."
         }
       ],
-      "priority": [
+      "managementTips": [
+        "Lisez les indices de l'histoire de Saros en parallèle des systèmes de jeu, car la narration et la progression sont conçues comme une seule boucle.",
+        "Utilisez l'ordre des bandes-annonces de Saros pour comprendre comment le ton et l'accent mis sur l'intrigue ont évolué avant le lancement.",
+        "Suivez les révélations du casting de Saros parallèlement aux moments de l'histoire pour suivre clairement les relations entre les personnages.",
+        "Utilisez les scènes de The Passage dans Saros comme points de contrôle pour la compréhension de l'univers et la planification des améliorations."
+      ]
+    },
+    "lucidBlocksQualiaAndBaseBuilding": {
+      "title": "Plateformes de Saros",
+      "displayType": "cards",
+      "intro": "Saros sortira le 30 avril 2026 sur PlayStation 5. Les mises à jour officielles détaillent également les améliorations pour PS5 Pro, tandis que la FAQ confirme que Saros n'est pas disponible sur PlayStation 4.",
+      "cards": [
         {
-          "rank": 1,
-          "title": "Stockage en premier",
-          "reason": "Plus de capacité de transport améliore le rendement de chaque course"
+          "name": "Plateforme de Saros : PlayStation 5",
+          "description": "Statut : Confirmé. Sortie : 30 avril 2026. La fiche officielle présente Saros comme un titre d'action solo lancé sur PlayStation 5."
         },
         {
-          "rank": 2,
-          "title": "Utilité ensuite",
-          "reason": "De meilleures interactions réduisent le temps passé dans les zones dangereuses"
+          "name": "Plateforme de Saros : PlayStation 5 Pro",
+          "description": "Statut : Amélioré. Sortie : 30 avril 2026. Housemarque détaille le PSSR amélioré, une résolution de rendu de base plus élevée, un audio 3D évolué, des gâchettes adaptatives et un retour haptique plus puissant."
         },
         {
-          "rank": 3,
-          "title": "Mobilité pour la survie",
-          "reason": "La sécurité contre les chutes prévient les morts évitables lors de l'évasion"
+          "name": "Plateforme de Saros : PlayStation 4",
+          "description": "Statut : Non disponible. Sortie : Non annoncée. La FAQ officielle de Saros indique que le jeu est exclusif aux consoles PS5 et n'est pas disponible sur PS4."
+        }
+      ],
+      "highlights": [
+        "Saros PS5 Confirmé | 30 avr. 2026",
+        "Saros PS5 Pro Amélioré | 30 avr. 2026",
+        "Saros PS4 Non disponible",
+        "Focus Action Solo pour Saros"
+      ]
+    },
+    "lucidBlocksWorldRegions": {
+      "title": "Statut PC et Steam de Saros",
+      "displayType": "regionCards",
+      "intro": "Les plans de lancement publics actuels pour Saros sont centrés sur la PlayStation 5. Les documents officiels confirment la date de sortie sur PS5, tandis que les détails du lancement public sur PC et Steam ne sont pas annoncés.",
+      "regions": [
+        {
+          "name": "Statut de la version PC de Saros",
+          "type": "Statut officiel",
+          "description": "Aucune version PC n'est confirmée. Les documents officiels de PlayStation ne listent actuellement Saros que pour les plans de lancement sur PlayStation 5."
+        },
+        {
+          "name": "Statut de la date de sortie Steam de Saros",
+          "type": "Statut officiel",
+          "description": "Aucune date de sortie Steam n'est annoncée. La seule date de sortie publique confirmée est le 30 avril 2026 pour PlayStation 5."
+        },
+        {
+          "name": "Portée du lancement confirmé de Saros",
+          "type": "Confirmé actuellement",
+          "description": "Saros sort sur PlayStation 5 le 30 avril 2026. Les mises à jour officielles des fonctionnalités décrivent également les améliorations pour PS5 Pro, notamment le PSSR amélioré, une résolution de rendu de base plus élevée, l'audio 3D, les gâchettes adaptatives et l'haptique."
+        },
+        {
+          "name": "Portée des plateformes dans la FAQ officielle de Saros",
+          "type": "FAQ officielle",
+          "description": "La FAQ de Saros décrit le jeu comme un titre d'action solo, confirme l'exclusivité PS5 et indique que Saros n'est pas disponible sur PS4."
         }
       ]
     },
-    "community": {
-      "title": "Communauté et Discord de Lucid Blocks",
-      "subtitle": "Trouvez des équipes, des mises à jour, des discussions",
-      "links": [
+    "lucidBlocksCreaturesAndEnemies": {
+      "title": "Précommandes et éditions de Saros",
+      "displayType": "itemCards",
+      "intro": "Saros propose deux éditions numériques sur le PlayStation Store. Les deux incluent le jeu complet et le même bonus d'armure de précommande, tandis que l'édition Digital Deluxe ajoute des ensembles d'armures supplémentaires et un accès anticipé de 48 heures.",
+      "creatures": [
         {
-          "title": "Discord officiel",
-          "subtitle": "Annonces • Commentaires • LFG",
-          "url": "https://discord.com/invite/lucidblocks"
+          "name": "Édition Standard de Saros",
+          "role": "69,99 $ | Jeu de base",
+          "description": "L'édition Standard de Saros comprend le jeu complet ainsi que le bonus d'armure Hands of Shore partagé pour toute précommande."
         },
         {
-          "title": "X officiel (Twitter)",
-          "subtitle": "Mises à jour et publications des développeurs",
-          "url": "https://x.com/lucidblocks"
+          "name": "Édition Digital Deluxe de Saros",
+          "role": "79,99 $ | Meilleurs bonus",
+          "description": "L'édition Digital Deluxe de Saros comprend le jeu complet, les armures Astra, Onryo et Midgard, un accès anticipé de 48 heures, ainsi que le même bonus d'armure Hands of Shore pour toute précommande."
         },
         {
-          "title": "Hub de la communauté Steam",
-          "subtitle": "Discussions • Captures d'écran • Guides",
-          "url": "https://steamcommunity.com/app/3495730"
-        },
-        {
-          "title": "Page du magasin Steam",
-          "subtitle": "Liste de souhaits • Démo • Description officielle",
-          "url": "https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+          "name": "Bonus de précommande de Saros",
+          "role": "Bonus partagé",
+          "description": "Toute précommande de Saros inclut le bonus d'armure Hands of Shore, que vous choisissiez l'édition Standard ou Digital Deluxe."
         }
       ]
     },
-    "modsBepInEx": {
-      "title": "Configuration des mods et de BepInEx de Lucid Blocks",
-      "subtitle": "Installez les mods proprement",
-      "steps": [
+    "lucidBlocksMobilityGear": {
+      "title": "Saros News",
+      "displayType": "cards",
+      "intro": "This Saros timeline highlights major updates in chronological order, from the first reveal to the latest PS5 Pro technical breakdown before launch.",
+      "items": [
         {
-          "step": 1,
-          "title": "Installer BepInEx 5",
-          "text": "Téléchargez BepInEx 5 et extrayez-le dans le dossier racine du jeu."
+          "name": "Saros News | April 16, 2026: PS5 and PS5 Pro Features Detailed",
+          "type": "Technical",
+          "description": "Housemarque detailed upgraded PSSR, higher base render resolution on PS5 Pro, evolved 3D audio, adaptive trigger behavior, and haptic feedback improvements."
         },
         {
-          "step": 2,
-          "title": "Lancez une fois pour générer des dossiers",
-          "text": "Démarrez le jeu jusqu'au menu principal, puis fermez-le. Cela crée la structure de dossiers BepInEx."
+          "name": "Saros News | March 26, 2026: Hands-On Report Published",
+          "type": "Hands-on",
+          "description": "A three-hour Saros preview covered the first two biomes, Soltari Shield usage, eclipse risk-reward events, and permanent upgrades through the Armor Matrix."
         },
         {
-          "step": 3,
-          "title": "Installer des mods",
-          "text": "Placez les fichiers .dll des mods dans le dossier plugins."
+          "name": "Saros News | February 12, 2026: Eclipse Escalation Gameplay Revealed",
+          "type": "Gameplay",
+          "description": "The update explained The Passage hub, armor customization paths, challenge modifiers, and how eclipse events reshape Saros runs on Carcosa."
         },
         {
-          "step": 4,
-          "title": "Vérifiez l'installation",
-          "text": "Relancez le jeu et confirmez que la fonctionnalité du mod est disponible (bascule de la caméra, curseur de l'interface utilisateur, etc.)."
+          "name": "Saros News | December 11, 2025: April 30 Launch Confirmed",
+          "type": "Release Date",
+          "description": "A new trailer confirmed Saros launches on April 30, 2026, opened pre-orders, and expanded the story setup around Arjun Devraj and Carcosa."
+        },
+        {
+          "name": "Saros News | September 25, 2025: Extended Gameplay Shared",
+          "type": "Gameplay",
+          "description": "Housemarque published a deeper Saros gameplay update and, at that time, announced a March 20, 2026 launch target before the later move to April 30."
+        },
+        {
+          "name": "Saros News | February 13, 2025: Saros Officially Announced",
+          "type": "Reveal",
+          "description": "Housemarque introduced Saros as a new IP, confirmed PS5 and PS5 Pro plans, revealed Arjun Devraj, and explained permanent progression after each death."
         }
       ],
-      "paths": [
-        {
-          "label": "Installation Steam typique",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\"
-        },
-        {
-          "label": "Dossier Plugins",
-          "path": "Steam\\steamapps\\common\\Lucid Blocks Demo\\BepInEx\\plugins\\"
-        }
-      ],
-      "multiplayerNote": "Pour les fonctionnalités de jeu en coopération modifiées, tout le monde doit installer BepInEx et les mêmes mods de gameplay."
+      "unlockMilestones": [
+        "Saros Reveal Published",
+        "Saros Launch Date Updated",
+        "Saros Hands-On Report Added",
+        "Saros PS5 Pro Technical Update Added"
+      ]
     },
-    "popularMods": {
-      "title": "Mods populaires de Lucid Blocks",
-      "subtitle": "Meilleures sélections de la communauté",
-      "mods": [
+    "lucidBlocksFarmingAndGrowth": {
+      "title": "Saros Combat Guide",
+      "displayType": "cards",
+      "intro": "Saros rewards players who move into danger instead of always backing away from it. Arjun's combat kit is built around momentum, where the Soltari Shield, Power Weapon, melee pressure, and Eclipse corruption all feed into proactive decision-making.",
+      "sections": [
         {
-          "title": "Menu de spawn",
-          "tags": [
-            "Amusant",
-            "Outils",
-            "Hôte uniquement"
-          ],
-          "description": "Ajoute un menu de spawn d'objets avec un mode de vol.",
-          "controls": [
+          "name": "Saros Combat Guide Step 1: Learn the Full Kit",
+          "description": "Each Saros run starts from a loadout built from Soltari human weapons and Carcosan alien weapons. Standard weapons use primary fire on R2, alt-fire on a half-pull of L2, while Arjun also uses dash, jump, melee, shield, and Power Weapon tools in every fight."
+        },
+        {
+          "name": "Saros Combat Guide Step 2: Use the Soltari Shield Offensively",
+          "description": "Hold R1 to raise the Soltari Shield as long as enough Shield Power remains. Blue enemy projectiles can be absorbed instead of only avoided, turning incoming bullet patterns into fuel for your next burst."
+        },
+        {
+          "name": "Saros Combat Guide Step 3: Convert Absorbed Shots Into Power Bursts",
+          "description": "A full pull of L2 activates the Carcosan Power Weapon, and R2 releases stored energy. Official combat footage shows this conversion deleting smaller enemies or groups when used at the right timing window."
+        },
+        {
+          "name": "Saros Combat Guide Step 4: Rotate Dodge, Melee, and Absorb",
+          "description": "Dash negates most damage while active, melee can break enemy shields, and Saros encounters reward rapid swaps between evasion and pressure. The strongest loop is constant micro-decisions, not one fixed tactic."
+        },
+        {
+          "name": "Saros Combat Guide Step 5: Treat Eclipse Bullets as a Resource",
+          "description": "During a Saros Eclipse, enemies add yellow corrupted shots. These can still be absorbed, but stored corruption temporarily lowers Arjun's maximum armor until you spend it with a Power Weapon blast."
+        },
+        {
+          "name": "Saros Combat Guide Step 6: Use Controlled Aggression on Bosses",
+          "description": "Boss encounters like Prophet and Bastion reward shield timing and spacing discipline. Some patterns are safer to outrun, but others are far more profitable when you hold position, absorb orbiting bullets, and avoid the core threat."
+        }
+      ],
+      "growthMilestones": [
+        "Saros Full Kit Familiarity Established",
+        "Saros Shield-to-Burst Conversion Stable",
+        "Saros Eclipse Corruption Control Learned",
+        "Saros Boss Aggression Timing Improved"
+      ]
+    },
+    "lucidBlocksBestEarlyUnlocks": {
+      "title": "Saros Progression System",
+      "displayType": "itemCards",
+      "intro": "Saros is built around coming back stronger after every failure. The major structural shift is permanent progression, where The Passage, the Armor Matrix, retained weapons, and World Dial routing make every run feed your next attempt.",
+      "priorities": [
+        {
+          "name": "Saros Progression Step 1: Every Death Moves the Build Forward",
+          "priority": "Essential",
+          "description": "Saros treats each death as valuable progress. The world changes after failed runs, but Arjun can permanently upgrade his loadout from evolving weapons and suit upgrades so each cycle starts stronger."
+        },
+        {
+          "name": "Saros Progression Step 2: Return to The Passage Between Cycles",
+          "priority": "Essential",
+          "description": "The Passage is the Saros hub between runs, where Arjun meets other Echelon IV survivors, reviews world details, and converts run resources into long-term growth."
+        },
+        {
+          "name": "Saros Progression Step 3: Build Around the Armor Matrix",
+          "priority": "Very High",
+          "description": "Primary lets you reshape Enforcer Armor through the Armor Matrix with upgrades such as higher max armor integrity, faster Lucenite gain, longer shield uptime, Second Chance unlocks, stronger starting stats, and higher base gear levels."
+        },
+        {
+          "name": "Saros Progression Step 4: Keep Run Resources for Long-Term Growth",
+          "priority": "Very High",
+          "description": "Armor Matrix currencies are found in caches and from defeated enemies, then retained when you die and return to The Passage. Even short failed runs can still push your Saros build upward."
+        },
+        {
+          "name": "Saros Progression Step 5: Use Retained Weapons to Reduce Reset Friction",
+          "priority": "High",
+          "description": "Once systems open up, collected primary weapons and Power Weapons are retained on death. A weapon that fits your Saros style remains part of your next attempt instead of forcing a full restart."
+        },
+        {
+          "name": "Saros Progression Step 6: Route Biomes with the World Dial",
+          "priority": "High",
+          "description": "Unlocked Saros biomes can be reached directly through the World Dial for faster deep attempts, while some Armor Matrix nodes remain gated behind boss clears to keep progression tied to combat execution."
+        }
+      ]
+    },
+    "lucidBlocksAchievementTracker": {
+      "title": "Difficulté et durée des sessions Saros",
+      "displayType": "cards",
+      "intro": "Saros conserve l'action intense de Housemarque tout en réduisant les temps morts entre les tentatives significatives. Le changement de rythme principal réside dans des sessions moyennes plus courtes, des tentatives plus rapides et des systèmes de défi modulables qui préservent la difficulté sans imposer de longues boucles de récupération.",
+      "groups": [
+        {
+          "name": "Durée des sessions Saros et rythme des tentatives",
+          "achievements": [
             {
-              "key": "F",
-              "action": "Ouvrir le menu de spawn"
+              "title": "Quelle est la durée d'une session Saros normale ?",
+              "description": "Une session Saros normale est conçue pour durer environ 30 minutes, pensée comme des excursions répétables plutôt que comme des sessions de récupération obligatoires de plusieurs heures."
             },
             {
-              "key": "V",
-              "action": "Activer le vol"
-            }
-          ],
-          "note": "Hôte uniquement ; les autres n'ont pas besoin de l'installer pour rejoindre."
-        },
-        {
-          "title": "Vue à la troisième personne",
-          "tags": [
-            "Caméra",
-            "QoL"
-          ],
-          "description": "Ajoute une vue de caméra à la troisième personne.",
-          "controls": [
+              "title": "Les sessions Saros peuvent-elles être plus longues que cela ?",
+              "description": "Oui. Des sessions Saros marathons sont toujours possibles, et les joueurs peuvent enchaîner les environnements lorsqu'ils souhaitent des sessions plus longues. La boucle plus courte modifie la cadence moyenne, pas la durée de jeu maximale."
+            },
             {
-              "key": "F7",
-              "action": "Basculer entre la première personne / la troisième personne"
+              "title": "Pourquoi Housemarque a-t-il raccourci la boucle Saros ?",
+              "description": "L'objectif de Saros est de préserver le danger tout en supprimant le sentiment d'impuissance lié à la nécessité de passer plusieurs heures à récupérer sa progression après une mort."
             }
           ]
         },
         {
-          "title": "Plus de chapeaux",
-          "tags": [
-            "Cosmétique"
-          ],
-          "description": "Ajoute des options de couleur de chapeau supplémentaires pour les gnomes.",
-          "colors": [
-            "Bleu",
-            "Vert",
-            "Orange",
-            "Violet",
-            "Noir",
-            "Rouge"
-          ]
-        },
-        {
-          "title": "DOOM à la télé",
-          "tags": [
-            "Amusant",
-            "Mini-jeu"
-          ],
-          "description": "Jouez à DOOM original sur un téléviseur dans le jeu, avec le son provenant du haut-parleur du téléviseur.",
-          "highlights": [
-            "Fonctionne en multijoueur afin que d'autres joueurs puissent regarder le même téléviseur",
-            "Inclut les données de l'épisode de DOOM en shareware (Épisode 1)"
+          "name": "Ajustement du défi et récupération dans Saros",
+          "achievements": [
+            {
+              "title": "Qu'est-ce qui rend les tentatives Saros moins punitives ?",
+              "description": "Les morts renvoient Arjun Devraj au Passage pour des améliorations permanentes dans la Matrice d'Armure, et les biomes débloqués peuvent être revisités directement via le Cadran Mondial."
+            },
+            {
+              "title": "Saros propose-t-il des moyens d'ajuster le défi ?",
+              "description": "Oui. Les Modificateurs Carcosans de Saros vous permettent d'équilibrer les Modificateurs de Protection et les Modificateurs d'Épreuve avant les sessions, incluant des options qui réduisent les dégâts subis ou augmentent la pression ennemie."
+            },
+            {
+              "title": "Saros est-il toujours un jeu difficile ?",
+              "description": "Oui. Les salves de projectiles denses, les boss à phases multiples, le timing du bouclier et la précision des mouvements restent au cœur de Saros. La différence réside dans un contrôle accru sur la récupération, la progression et l'équilibre du défi."
+            }
           ]
         }
       ]
     },
-    "controllerSupport": {
-      "title": "Prise en charge de la manette de Lucid Blocks",
-      "subtitle": "Jeu complet à la manette",
-      "native": {
-        "title": "Paramètres dans le jeu",
-        "description": "Utilisez les menus de liaisons/paramètres du jeu pour ajuster les commandes."
-      },
-      "mod": {
-        "title": "Mod de prise en charge de la manette",
-        "description": "Ajoute une prise en charge complète de la manette/du contrôleur et un curseur d'interface utilisateur pour la navigation dans les menus."
-      },
-      "features": [
-        "Commandes de jeu complètes : mouvement, caméra, combat, interactions et capacités mappés à la manette",
-        "Navigation avec le curseur de l'interface utilisateur : un curseur de cercle blanc apparaît dans les menus ; appuyez sur A pour cliquer et faire glisser les curseurs",
-        "Navigation dans l'inventaire : maintenez Select enfoncé pour ouvrir l'inventaire ; utilisez le stick droit pour naviguer tout en le maintenant enfoncé",
-        "Menus déroulants : le stick droit fait défiler les recettes de fabrication, les paramètres et autres zones d'interface utilisateur déroulantes",
-        "Défilement de la barre d'accès rapide : la croix directionnelle gauche/droite fait défiler 4 emplacements de la barre d'accès rapide",
-        "Commutation d'entrée transparente : détecte automatiquement le clavier/la souris par rapport à la manette"
+    "lucidBlocksSingleplayerAndPlatformFAQ": {
+      "title": "Système d'Éclipse de Saros",
+      "displayType": "accordion",
+      "intro": "L'Éclipse de Saros n'est pas seulement un événement visuel. Elle modifie les règles de combat, les comportements ennemis, la valeur du butin, les dangers d'exploration et la manière dont la corruption influence la puissance d'Arjun Devraj au fil de chaque session.",
+      "faqs": [
+        {
+          "question": "Qu'est-ce qui déclenche une Éclipse de Saros ?",
+          "answer": "Chaque zone de Saros contient un dispositif à plusieurs bras qui peut initier une Éclipse spécifique au biome. La première activation sert de démonstration au système, et les activations ultérieures deviennent une décision optionnelle de risque et récompense."
+        },
+        {
+          "question": "Qu'est-ce qui change lorsqu'une Éclipse de Saros commence ?",
+          "answer": "Une Éclipse de Saros modifie la présentation visuelle et sonore tout en ajoutant des changements de règles spécifiques au biome. Les exemples présentés incluent des dangers liés à des machines réactivées et de l'eau auparavant sûre devenant dangereuse."
+        },
+        {
+          "question": "Comment une Éclipse de Saros modifie-t-elle les ennemis et les projectiles ?",
+          "answer": "Le comportement des ennemis de Saros s'intensifie et des schémas de projectiles jaunes corrompus apparaissent. Les tirs corrompus peuvent réduire l'intégrité maximale de l'armure et imposer des décisions de timing de bouclier plus strictes."
+        },
+        {
+          "question": "Pourquoi déclencher volontairement une Éclipse de Saros ?",
+          "answer": "Car la valeur des récompenses de Saros augmente avec le danger. La Lucénite devient plus précieuse pendant les états d'Éclipse, et des armes ou artefacts corrompus peuvent apparaître avec des propriétés uniques pour cet état du monde."
+        },
+        {
+          "question": "Comment la corruption de Saros interagit-elle avec l'Arme de Puissance ?",
+          "answer": "Dans Saros, la corruption est à la fois une menace et une ressource. Absorber des tirs corrompus peut alimenter l'Arme de Puissance, mais la corruption stockée draine temporairement l'armure maximale jusqu'à ce que vous fassiez feu pour l'évacuer."
+        },
+        {
+          "question": "Pourquoi le système d'Éclipse de Saros est-il si important ?",
+          "answer": "L'Éclipse de Saros lie le combat, la planification d'itinéraire, les dangers, la valeur du butin, le son et la corruption visible en un seul système unifié au lieu de mécaniques séparées."
+        }
       ]
     },
-    "playerCount": {
-      "title": "Nombre de joueurs et tendance de Lucid Blocks",
-      "subtitle": "Instantané de popularité en direct",
-      "stats": {
-        "now": {
-          "value": "6 047",
-          "label": "Joueurs en ce moment"
+    "lucidBlocksSteamDeckAndController": {
+      "title": "Personnages et distribution de Saros",
+      "displayType": "accordion",
+      "intro": "Saros dispose désormais d'un protagoniste clairement nommé, d'une interprète fidèle à Housemarque et de plusieurs membres de la distribution confirmés liés à Carcosa, au Passage et à Echelon IV.",
+      "faqs": [
+        {
+          "question": "Qui est Arjun Devraj dans Saros ?",
+          "answer": "Arjun Devraj est le protagoniste de Saros, un Enforceur Soltari enquêtant sur le monde de Carcosa frappé par l'éclipse. Rahul Kohli incarne Arjun Devraj en tant que personnage central du point de vue."
         },
-        "peak24h": {
-          "value": "13 859",
-          "label": "Pic sur 24 heures"
+        {
+          "question": "Who is Sheridan Bouchard in Saros?",
+          "answer": "Sheridan Bouchard est la commandante d'Echelon Quatre dans Saros et est interprétée par Jane Perry. Elle est présentée comme une figure d'autorité majeure dans la chaîne de missions."
         },
-        "allTimePeak": {
-          "value": "15 272",
-          "label": "Pic de tous les temps"
+        {
+          "question": "Qui est Jerome Jackson dans Saros ?",
+          "answer": "Jerome Jackson est un personnage de la distribution de Saros, interprété par Ben Prendergast, révélé comme faisant partie de la colonie grandissante sur Carcosa."
+        },
+        {
+          "question": "Qui est Sebastian Torres dans Saros ?",
+          "answer": "Sebastian Torres est un autre personnage secondaire confirmé dans Saros, interprété par David DeSantos et lié aux interactions plus larges de l'équipage d'Echelon IV."
+        },
+        {
+          "question": "Qu'est-ce que Le Passage dans le contexte de la distribution de Saros ?",
+          "answer": "Le Passage est le hub entre les sessions de Saros où les joueurs retrouvent les membres de l'équipage d'Echelon IV alors que la pression de l'éclipse s'intensifie et que la confiance au sein du groupe commence à se briser."
+        },
+        {
+          "question": "Où puis-je suivre les mises à jour sur la distribution de Saros ?",
+          "answer": "Suivez les mises à jour de la distribution de Saros via la page officielle du jeu Saros, les articles du Blog PlayStation et les bandes-annonces de lancement présentant les personnages."
         }
-      },
-      "milestones": [
+      ]
+    },
+    "lucidBlocksSettingsAndAccessibility": {
+      "title": "Comparaison entre Saros et Returnal",
+      "displayType": "cards",
+      "intro": "Saros et Returnal partagent l'ADN de l'action Housemarque, mais leur structure, leur modèle de progression, leur approche du combat, leur rythme et leur narration diffèrent de manière significative pour les nouveaux joueurs.",
+      "settings": [
         {
-          "date": "30 janvier 2026",
-          "title": "Démo sortie sur Steam",
-          "detail": "La démo publique est devenue disponible sur PC (Steam)."
+          "name": "Protagoniste et contexte : Saros vs Returnal",
+          "type": "Protagoniste et Contexte",
+          "description": "Saros : Arjun Devraj opère sur Carcosa frappée par l'éclipse en tant qu'Enforceur Soltari. Returnal : Sélène s'écrase sur Atropos et lutte à travers un cycle de survie répétitif."
         },
         {
-          "date": "8 février 2026",
-          "title": "Pic de tous les temps atteint",
-          "detail": "La démo a atteint son plus grand nombre de joueurs simultanés enregistré."
+          "name": "Plateformes : Saros vs Returnal",
+          "type": "Plateforme",
+          "description": "Saros : La communication de lancement est axée sur la PS5 avec un support pour les améliorations PS5 Pro. Returnal : Disponible sur la famille de consoles PS5 et sur PC."
+        },
+        {
+          "name": "Progression après la mort : Saros vs Returnal",
+          "type": "Progression",
+          "description": "Saros : La mort nourrit une croissance persistante via les équipements, les améliorations et la récupération Second Chance. Returnal : L'adaptation au fil des répétitions reste centrale avec un sentiment de réinitialisation plus fort à chaque cycle."
+        },
+        {
+          "name": "Approche du combat : Saros vs Returnal",
+          "type": "Combat",
+          "description": "Saros : L'agression basée sur le bouclier met l'accent sur l'absorption des projectiles bleus, les parades et la conversion de la pression en dégâts explosifs. Returnal : L'évitement type bullet-hell, le rythme du tir secondaire et le contrôle de la mobilité restent l'approche principale."
+        },
+        {
+          "name": "Rythme des sessions : Saros vs Returnal",
+          "type": "Rythme de session",
+          "description": "Saros : Les aperçus indiquent des sessions compactes d'environ une demi-heure. Returnal : Les sessions semblent généralement plus longues et comportent une pression de réinitialisation plus forte entre les cycles complets."
+        },
+        {
+          "name": "Cadre narratif : Saros vs Returnal",
+          "type": "Histoire",
+          "description": "Saros : La dynamique de groupe dans Le Passage et à travers Carcosa est mise en avant dès le début. Returnal : L'angle narratif reste plus solitaire et introspectif autour de la boucle de Sélène."
+        }
+      ]
+    },
+    "lucidBlocksUpdatesAndPatchNotes": {
+      "title": "Multijoueur et Co-Op de Saros",
+      "displayType": "timeline-cards",
+      "intro": "Les questions sur le multijoueur et la co-op de Saros sont fréquentes, ce module maintient donc la portée officielle du lancement explicite : focus sur le solo, aucun mode co-op publié et étiquetage clair des fonctionnalités de la plateforme.",
+      "entries": [
+        {
+          "type": "Statut du multijoueur",
+          "title": "Saros est-il multijoueur ?",
+          "description": "Non. Les messages officiels de la FAQ de Saros décrivent Saros comme un jeu d'action en solo."
+        },
+        {
+          "type": "Statut de la co-op",
+          "title": "Saros propose-t-il de la co-op ?",
+          "description": "Aucun mode co-op n'est répertorié dans les informations actuelles de lancement de Saros. Les résumés publics du produit présentent Saros comme un titre solo hors ligne."
+        },
+        {
+          "type": "Fonctionnalités en ligne",
+          "title": "Saros prend-il en charge le multijoueur en ligne ou le cross-play ?",
+          "description": "Les listes de fonctionnalités actuelles de Saros n'indiquent pas de support pour le multijoueur en ligne ou le cross-play. Le Jeu à distance est la principale fonctionnalité liée au Web mise en avant."
+        },
+        {
+          "type": "Jeu à distance",
+          "title": "Saros prend-il en charge le Jeu à distance ?",
+          "description": "Oui. Les listes de fonctionnalités de Saros identifient le support du Jeu à distance pour les sessions PlayStation compatibles."
+        },
+        {
+          "type": "PS Plus",
+          "title": "Saros nécessite-t-il PlayStation Plus ?",
+          "description": "Les détails actuels du produit Saros n'indiquent pas d'exigence PlayStation Plus pour l'expérience solo de base."
+        }
+      ]
+    },
+    "lucidBlocksCrashFixAndTroubleshooting": {
+      "title": "Fonctionnalités Saros sur PS5 Pro",
+      "displayType": "steps",
+      "intro": "Les détails techniques de Saros sur PS5 et PS5 Pro spécifient désormais le comportement de la qualité d'image, les objectifs de fréquence d'images, la cadence cinématique, la conception audio, l'utilisation de la DualSense et les attentes de chargement.",
+      "steps": [
+        {
+          "title": "Clarté d'image de Saros sur PS5 et PS5 Pro",
+          "description": "Saros sur PS5 prend en charge une présentation 4K sur les écrans compatibles, tandis que Saros sur PS5 Pro utilise la PSSR mise à jour pour offrir une présentation de scène plus nette proche de la clarté 4K native."
+        },
+        {
+          "title": "Objectifs de fréquence d'images du gameplay de Saros",
+          "description": "Le gameplay de Saros est décrit à 60 fps sur PS5 et PS5 Pro, la version PS5 Pro associant cet objectif à une résolution de rendu de base plus élevée pour des détails de mouvement plus nets."
+        },
+        {
+          "title": "Cinématiques de l'histoire de Saros à 30 fps",
+          "description": "Les cinématiques de l'histoire de Saros tournent à 30 fps pour une qualité visuelle supérieure sur PS5, et Saros sur PS5 Pro applique la même cadence avec une résolution de pointe encore plus élevée."
+        },
+        {
+          "title": "Couche audio Tempest 3D de Saros",
+          "description": "Saros utilise la technologie Tempest 3D AudioTech sur les systèmes de la famille PS5 pour positionner les ennemis, l'ambiance et les indices de combat autour du joueur avec la même conception spatiale sur PS5 Pro."
+        },
+        {
+          "title": "Retour de combat DualSense de Saros",
+          "description": "Saros assigne une pression à mi-course sur L2 au tir secondaire et une pression complète à l'arme de puissance Eclipse, les gâchettes adaptatives et les retours haptiques conservant le même langage de combat sur PS5 et PS5 Pro."
+        },
+        {
+          "title": "Chargement SSD et flux de retour de Saros",
+          "description": "Saros utilise le chemin SSD ultra-rapide pour des retours rapides après la mort et des transitions vives, tandis que Saros sur PS5 Pro conserve le même pipeline de chargement aux côtés d'un rendu plus net."
         }
       ]
     }
   },
   "faq": {
-    "title": "Foire aux",
-    "titleHighlight": "Questions",
-    "subtitle": "Tout ce que vous devez savoir sur Lucid Blocks",
+    "title": "Questions fréquemment",
+    "titleHighlight": "posées sur Saros",
+    "subtitle": "Tout ce que vous devez savoir pour commencer et suivre Saros.",
     "questions": [
       {
-        "question": "Comment télécharger la démo de Lucid Blocks ?",
-        "answer": "Visitez la page du magasin Steam et cliquez sur \"Télécharger la démo\". La démo est gratuite et nécessite 2,62 Gio à télécharger, 4,88 Gio d'espace disque."
+        "question": "Quelle est la date de sortie de Saros ?",
+        "answer": "Saros est prévu pour une sortie complète le 30 avril 2026, avec un accès anticipé lié au pack Digital Deluxe."
       },
       {
-        "question": "Puis-je jouer à Lucid Blocks en solo ou ai-je besoin d'amis ?",
-        "answer": "Lucid Blocks prend en charge le jeu en solo et en coopération avec jusqu'à 6 joueurs. Le solo est plus difficile mais possible."
+        "question": "Où puis-je jouer à Saros au lancement ?",
+        "answer": "Les messages concernant la plateforme de lancement de Saros sont centrés sur la PlayStation 5 et la PlayStation 5 Pro."
       },
       {
-        "question": "Quelles sont les tâches du Haut-Gnome dans Lucid Blocks ?",
-        "answer": "Le Haut-Gnome est votre patron qui vous assigne des objectifs comme \"casser la télévision\", \"inonder les toilettes\" ou \"voler des objets spécifiques\". Effectuez-les pour obtenir des récompenses supplémentaires."
+        "question": "Qu'est-ce qui rend le combat de Saros différent ?",
+        "answer": "Saros met l'accent sur la pression des projectiles, les mouvements agressifs et une boucle de conversion bouclier-puissance lors des rencontres de haute intensité."
       },
       {
-        "question": "Comment installer des mods pour Lucid Blocks ?",
-        "answer": "Installez BepInEx 5, lancez le jeu une fois, puis placez les DLL des mods dans le dossier BepInEx/plugins/. Tous les joueurs ont besoin des mêmes mods pour le multijoueur."
+        "question": "Comment fonctionne la progression de Saros après la mort ?",
+        "answer": "Saros utilise des systèmes de progression persistants afin que les parties répétées continuent de renforcer la puissance et les options à long terme."
       },
       {
-        "question": "Lucid Blocks prend-il en charge les manettes ?",
-        "answer": "Oui ! Utilisez les paramètres du jeu pour la prise en charge de base de la manette, ou installez le Mod de manette de Nexus Mods pour une navigation complète dans l'interface utilisateur."
+        "question": "Saros est-il un jeu multijoueur ou co-op ?",
+        "answer": "Saros est actuellement présenté comme une expérience d'action en solo dans les communications officielles de lancement."
       },
       {
-        "question": "Quel est le nombre de joueurs pour Lucid Blocks ?",
-        "answer": "En février 2026, Lucid Blocks compte en moyenne plus de 6 000 joueurs simultanés, avec un pic de 15 272 le 8 février 2026."
+        "question": "Quelles sont les principales fonctionnalités de Saros sur PS5 Pro ?",
+        "answer": "La communication sur Saros sur PS5 Pro met en avant une clarté améliorée, une réponse à l'action axée sur la performance et des fonctionnalités d'immersion plus fortes."
       }
     ]
   },
   "cta": {
-    "title": "Prêt à commencer à braquer ?",
-    "description": "Rejoignez la communauté Lucid Blocks sur Discord pour des groupes de coopération, des mises à jour et des discussions sur les mods !",
-    "joinCommunity": "Rejoindre Discord",
-    "joinGame": "Obtenir la démo sur Steam"
+    "title": "Prêt pour la couverture du lancement de Saros ?",
+    "description": "Rejoignez les canaux officiels de la communauté et suivez chaque étape de Saros, des bandes-annonces aux mises à jour post-lancement.",
+    "joinCommunity": "Rejoindre le Discord de Housemarque",
+    "joinGame": "Ouvrir la page officielle de Saros"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Votre centre de ressources complet pour les braquages furtifs, les stratégies de coopération, les mods et les guides communautaires de Lucid Blocks.",
+    "title": "Wiki Saros",
+    "description": "Votre centre de ressources complet pour Saros : mises à jour de sortie, analyses de l'histoire, guides de combat et détails de la plateforme.",
     "resources": "Ressources",
     "community": "Communauté",
     "legal": "Légal",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Communauté Steam",
-    "steamStore": "Magasin Steam",
+    "steamCommunity": "Reddit",
+    "steamStore": "YouTube",
     "about": "À propos",
     "privacy": "Politique de confidentialité",
     "terms": "Conditions d'utilisation",
     "copyrightNotice": "Droits d'auteur",
-    "copyright": "© 2026 Lucid Blocks Wiki. Non affilié aux développeurs de Lucid Blocks.",
-    "disclaimer": "Site web de ressources non officiel créé par des fans."
+    "copyright": "© 2026 Saros Wiki. Non affilié à Housemarque ou Sony Interactive Entertainment.",
+    "disclaimer": "Site de ressources non officiel créé par des fans."
   },
   "pages": {
-    "guides": {
-      "title": "Guides Lucid Blocks",
-      "description": "Guides de jeu complets, des bases pour débutants aux stratégies avancées d'Apotheosis. Maîtrisez la survie et l'artisanat.",
-      "metaTitle": "Guides Lucid Blocks - Stratégies de débutant à avancé",
-      "metaDescription": "Guides complets de Lucid Blocks couvrant les conseils pour débutants, le système Apotheosis, les stratégies de survie et les tactiques d'experts pour maîtriser ce bac à sable surréaliste.",
-      "categoryLabel": "GUIDES DE JEU",
-      "whatIs": "Que sont les Guides ?",
-      "whatIsDescription": "Guides complets couvrant les mécaniques de jeu, les stratégies de survie et le système d'artisanat Apotheosis. Apprenez tout, des premiers pas aux techniques avancées.",
-      "why": "Pourquoi lire les guides ?",
+    "release": {
+      "title": "Sortie de Saros",
+      "description": "Suivez le calendrier de la date de sortie de Saros, les fenêtres de préchargement, les actualités de la démo et les mises à jour du planning du jour de lancement dans une seule chronologie.",
+      "metaTitle": "Sortie de Saros - Date, heure, préchargement et chronologie de lancement",
+      "metaDescription": "Suivez la couverture de la sortie de Saros pour les changements de date, le calendrier de préchargement, les détails de l'accès anticipé et les mises à jour du planning de lancement officiel.",
+      "categoryLabel": "SORTIE DE SAROS",
+      "whatIs": "Qu'est-ce que la sortie de Saros ?",
+      "whatIsDescription": "Les pages consacrées à la sortie de Saros regroupent les étapes officielles du lancement, les changements de date, les horaires de préchargement et les fenêtres d'accès selon les éditions afin que les joueurs puissent planifier exactement quand commencer.",
+      "why": "Pourquoi suivre les pages de sortie de Saros ?",
       "whySteps": {
-        "step1Title": "Apprendre les mécaniques de base",
-        "step1Description": "Comprenez le système Apotheosis et évitez les erreurs courantes de débutant",
-        "step2Title": "Progression rapide",
-        "step2Description": "Suivez des parcours éprouvés pour survivre et prospérer dans ce monde surréaliste",
-        "step3Title": "Maîtriser les stratégies",
-        "step3Description": "Développez des tactiques avancées pour l'exploration et l'artisanat"
+        "step1Title": "Suivre les étapes clés du lancement de Saros",
+        "step1Description": "Consultez les annonces de dates de Saros, les mises à jour de la chronologie et les points de contrôle de la semaine de sortie par ordre chronologique.",
+        "step2Title": "Planifier l'heure de début de Saros",
+        "step2Description": "Utilisez la couverture du préchargement et de l'heure de sortie de Saros pour préparer le stockage, les téléchargements et la planification de la première session.",
+        "step3Title": "Comparer les fenêtres d'accès de Saros",
+        "step3Description": "Comprenez comment le lancement standard de Saros et les fenêtres d'accès anticipé basées sur les éditions diffèrent avant le jour de la sortie."
       },
-      "featured": "En vedette et essentiels",
-      "all": "Tous les guides"
+      "featured": "À la une et essentiels",
+      "all": "Tous les articles sur la sortie de Saros"
     },
-    "crafting": {
-      "title": "Artisanat Lucid Blocks",
-      "description": "Maîtrisez le système de fusion Apotheosis avec les mécaniques d'essence, les recettes et les stratégies d'artisanat pour des objets puissants.",
-      "metaTitle": "Artisanat Lucid Blocks - Système Apotheosis et recettes",
-      "metaDescription": "Maîtrisez le système d'artisanat Apotheosis de Lucid Blocks. Apprenez les mécaniques d'essence, les recettes de fusion et les stratégies pour créer des outils et des armes puissants.",
-      "categoryLabel": "SYSTÈME D'ARTISANAT",
-      "whatIs": "Qu'est-ce que l'artisanat ?",
-      "whatIsDescription": "Le système Apotheosis est une mécanique de fusion unique basée sur l'essence où vous combinez jusqu'à six objets pour découvrir de nouvelles recettes. Pas de menus d'artisanat fixes : l'expérimentation est la clé.",
-      "why": "Pourquoi maîtriser l'artisanat ?",
+    "platforms": {
+      "title": "Plateformes de Saros",
+      "description": "Découvrez la disponibilité de Saros sur les plateformes PS5, les rumeurs PC et les attentes en matière de fonctionnalités spécifiques au matériel.",
+      "metaTitle": "Plateformes de Saros - Statut PS5, PS5 Pro, Steam, Xbox et Switch",
+      "metaDescription": "Consultez la couverture des plateformes de Saros, y compris la disponibilité sur PS5, les fonctionnalités PS5 Pro et le statut actuel sur Steam, Xbox et Switch.",
+      "categoryLabel": "PLATEFORMES DE SAROS",
+      "whatIs": "Que sont les plateformes de Saros ?",
+      "whatIsDescription": "Les pages des plateformes de Saros se concentrent sur les supports où Saros est jouable et comment le statut de chaque plateforme affecte les attentes de lancement, les objectifs de performance et les décisions d'achat.",
+      "why": "Pourquoi consulter les pages des plateformes de Saros ?",
       "whySteps": {
-        "step1Title": "Débloquer des objets puissants",
-        "step1Description": "Découvrez des outils, des armes et des équipements de mobilité essentiels grâce à la fusion",
-        "step2Title": "Comprendre les essences",
-        "step2Description": "Apprenez comment les essences d'objets se combinent pour créer des résultats prévisibles",
-        "step3Title": "Optimiser les ressources",
-        "step3Description": "Utilisez les mécaniques de dilution pour maximiser le rendement à partir de matériaux bon marché"
+        "step1Title": "Confirmer la disponibilité de Saros",
+        "step1Description": "Obtenez une vision claire des plateformes de Saros avant l'achat, y compris les systèmes confirmés et non confirmés.",
+        "step2Title": "Comprendre les différences matérielles de Saros",
+        "step2Description": "Comparez les notes sur les fonctionnalités de Saros sur PS5 et PS5 Pro pour définir les bonnes attentes visuelles et de performance.",
+        "step3Title": "Éviter la confusion sur les plateformes de Saros",
+        "step3Description": "Utilisez les mises à jour des plateformes de Saros pour distinguer le support de lancement officiel des spéculations et des affirmations obsolètes."
       },
-      "featured": "En vedette et essentiels",
-      "all": "Tous les guides d'artisanat"
+      "featured": "À la une et essentiels",
+      "all": "Tous les articles sur les plateformes de Saros"
     },
-    "items": {
-      "title": "Objets Lucid Blocks",
-      "description": "Guides détaillés sur les objets couvrant les outils, les armes, l'équipement de mobilité et les solutions de stockage avec recettes d'artisanat et conseils d'utilisation.",
-      "metaTitle": "Objets Lucid Blocks - Guide des outils, armes et équipements",
-      "metaDescription": "Base de données complète des objets pour Lucid Blocks, incluant les outils, les armes, l'équipement de mobilité et le stockage. Apprenez à fabriquer et utiliser chaque objet efficacement.",
-      "categoryLabel": "OBJETS ET ÉQUIPEMENT",
-      "whatIs": "Que sont les objets ?",
-      "whatIsDescription": "Guides complets pour les outils, les armes, l'équipement de mobilité et les objets fonctionnels. Apprenez les recettes d'artisanat, les stratégies d'utilisation et les combinaisons optimales.",
-      "why": "Pourquoi consulter les guides d'objets ?",
+    "guide": {
+      "title": "Guide de Saros",
+      "description": "Apprenez les bases du gameplay de Saros, le flux de progression, les trophées, la courbe de difficulté et les stratégies de planification des runs.",
+      "metaTitle": "Guide de Saros - Gameplay, difficulté, boss, trophées et stratégie de run",
+      "metaDescription": "Lisez le hub des guides de Saros pour les systèmes de gameplay, la gestion de la pression des boss, la planification des trophées et des conseils pratiques de progression run par run.",
+      "categoryLabel": "GUIDE DE SAROS",
+      "whatIs": "Qu'est-ce que le guide de Saros ?",
+      "whatIsDescription": "Les pages du guide de Saros expliquent les mécaniques de base, le rythme des rencontres et la prise de décision sur le long terme afin que les joueurs puissent améliorer leur régularité du premier run aux tentatives de fin de jeu.",
+      "why": "Pourquoi lire les pages du guide de Saros ?",
       "whySteps": {
-        "step1Title": "Apprendre les recettes d'artisanat",
-        "step1Description": "Découvrez comment fabriquer des outils et des armes essentiels en utilisant Apotheosis",
-        "step2Title": "Optimiser l'équipement",
-        "step2Description": "Choisissez les meilleurs objets pour votre style de jeu et votre stade de progression",
-        "step3Title": "Améliorer la survie",
-        "step3Description": "Équipez-vous de matériel de mobilité et d'armes pour naviguer dans ce monde dangereux"
+        "step1Title": "Développer les compétences de base de Saros",
+        "step1Description": "Pratiquez les mouvements, le rythme de combat et la gestion des risques de Saros avec des conseils thématiques ciblés.",
+        "step2Title": "Améliorer l'efficacité des runs de Saros",
+        "step2Description": "Utilisez les conseils d'itinéraire et de priorité de Saros pour réduire les tentatives inutiles et atteindre les étapes clés plus rapidement.",
+        "step3Title": "Planifier la progression des trophées de Saros",
+        "step3Description": "Suivez la couverture des trophées et des objectifs de Saros pour organiser vos buts de complétion à travers les runs répétés."
       },
-      "featured": "En vedette et essentiels",
-      "all": "Tous les objets"
+      "featured": "À la une et essentiels",
+      "all": "Tous les articles du guide de Saros"
     },
-    "biomes": {
-      "title": "Biomes Lucid Blocks",
-      "description": "Explorez les régions du monde, les caractéristiques environnementales, l'emplacement des ressources et les conseils de survie pour chaque biome.",
-      "metaTitle": "Biomes Lucid Blocks - Régions du monde et exploration",
-      "metaDescription": "Explorez les biomes de Lucid Blocks, y compris les Tiamana Leylines, Fog Meadow et les régions surréalistes. Trouvez des ressources, évitez les dangers et naviguez dans le monde infini.",
-      "categoryLabel": "RÉGIONS DU MONDE",
-      "whatIs": "Que sont les biomes ?",
-      "whatIsDescription": "Guides des différentes régions du monde, des caractéristiques environnementales, de la distribution des ressources et des zones de danger. Apprenez à quoi vous attendre et comment vous préparer pour chaque zone.",
-      "why": "Pourquoi explorer les biomes ?",
+    "editions": {
+      "title": "Éditions de Saros",
+      "description": "Comparez les options standard et deluxe de Saros, les bonus de précommande, les prix et les différences d'accès anticipé.",
+      "metaTitle": "Éditions de Saros - Standard vs Deluxe, prix, bonus et accès anticipé",
+      "metaDescription": "Utilisez la couverture des éditions de Saros pour comparer le contenu des packs, les prix, les récompenses de précommande et le calendrier de l'accès anticipé avant l'achat.",
+      "categoryLabel": "ÉDITIONS DE SAROS",
+      "whatIs": "Que sont les éditions de Saros ?",
+      "whatIsDescription": "Les pages des éditions de Saros détaillent chaque version disponible à l'achat, le contenu bonus et le calendrier d'accès afin que vous puissiez choisir le pack qui correspond à vos objectifs de lancement.",
+      "why": "Pourquoi comparer les éditions de Saros ici ?",
       "whySteps": {
-        "step1Title": "Trouver des ressources",
-        "step1Description": "Localisez des matériaux rares et des essences spécifiques à chaque région",
-        "step2Title": "Éviter les dangers",
-        "step2Description": "Comprenez les dangers environnementaux et les créatures hostiles",
-        "step3Title": "Planifier l'exploration",
-        "step3Description": "Préparez les bons outils et équipements pour chaque type de biome"
+        "step1Title": "Adapter l'édition de Saros à son budget",
+        "step1Description": "Consultez les prix des packs de Saros et le contenu inclus pour choisir la version qui convient à votre budget.",
+        "step2Title": "Évaluer la valeur des bonus de Saros",
+        "step2Description": "Comprenez quels bonus de précommande et de l'édition deluxe de Saros comptent pour votre expérience de la première semaine.",
+        "step3Title": "Planifier le calendrier d'accès de Saros",
+        "step3Description": "Utilisez les détails du calendrier des éditions de Saros pour décider entre l'accès au lancement standard et les fenêtres de jeu anticipé."
       },
-      "featured": "En vedette et essentiels",
-      "all": "Tous les biomes"
+      "featured": "À la une et essentiels",
+      "all": "Tous les articles sur les éditions de Saros"
     },
-    "building": {
-      "title": "Construction Lucid Blocks",
-      "description": "Maîtrisez les dimensions personnelles Qualia, la construction de bases, la gestion du stockage et les techniques de construction créative.",
-      "metaTitle": "Construction Lucid Blocks - Qualia et construction de base",
-      "metaDescription": "Maîtrisez la construction dans Lucid Blocks avec les dimensions personnelles Qualia, la construction de bases, les solutions de stockage et les techniques de construction créative.",
-      "categoryLabel": "CONSTRUCTION ET BASES",
-      "whatIs": "Qu'est-ce que la construction ?",
-      "whatIsDescription": "Guides sur le système de dimension personnelle Qualia, la construction de bases, la gestion du stockage et la construction créative. Apprenez à créer votre havre de paix dans ce monde surréaliste.",
-      "why": "Pourquoi construire des bases ?",
+    "reviews": {
+      "title": "Critiques de Saros",
+      "description": "Suivez la couverture des critiques de Saros, les impressions des aperçus, les dates d'embargo et les tendances du sentiment des joueurs.",
+      "metaTitle": "Critiques de Saros - Aperçus, Embargo, Metacritic et Réactions des Joueurs",
+      "metaDescription": "Suivez les critiques de Saros avec les aperçus des médias, les dates d'embargo, les discussions sur les scores de la critique et les instantanés des réactions de la communauté.",
+      "categoryLabel": "CRITIQUES DE SAROS",
+      "whatIs": "Que sont les Critiques de Saros ?",
+      "whatIsDescription": "Les pages de Critiques de Saros organisent les aperçus des critiques, les tests de lancement et les références aux réactions des joueurs pour vous aider à comprendre la réception sous plusieurs angles.",
+      "why": "Pourquoi utiliser les pages de critiques de Saros ?",
       "whySteps": {
-        "step1Title": "Créer des espaces sûrs",
-        "step1Description": "Établissez des bases sécurisées pour le stockage et les opérations d'artisanat",
-        "step2Title": "Gérer les ressources",
-        "step2Description": "Organisez les matériaux efficacement grâce aux solutions de stockage",
-        "step3Title": "Débloquer Qualia",
-        "step3Description": "Accédez à des dimensions de poche personnelles pour un confort ultime"
+        "step1Title": "Lire les retours critiques de Saros",
+        "step1Description": "Parcourez la couverture des aperçus et des critiques de Saros pour comprendre les points forts, les préoccupations et les points de discussion récurrents.",
+        "step2Title": "Suivre le contexte des scores de Saros",
+        "step2Description": "Utilisez les pages de scores et d'embargo de Saros pour interpréter la dynamique des critiques autour du lancement sans manquer le contexte temporel.",
+        "step3Title": "Comparer les réactions de la communauté Saros",
+        "step3Description": "Combinez les discussions des critiques et des joueurs de Saros pour décider si le jeu correspond à vos préférences de style de jeu."
       },
-      "featured": "En vedette et essentiels",
-      "all": "Tous les guides de construction"
+      "featured": "À la une et Essentiels",
+      "all": "Tous les articles de critiques de Saros"
     },
-    "support": {
-      "title": "Support Lucid Blocks",
-      "description": "Support technique, compatibilité des plateformes, optimisation des performances et dépannage des problèmes courants.",
-      "metaTitle": "Support Lucid Blocks - Aide technique et correctifs",
-      "metaDescription": "Obtenez un support technique pour Lucid Blocks, incluant la configuration du Steam Deck, les correctifs de crash, l'optimisation des performances et les guides de compatibilité des plateformes.",
-      "categoryLabel": "SUPPORT TECHNIQUE",
-      "whatIs": "Qu'est-ce que le support ?",
-      "whatIsDescription": "Guides techniques couvrant la compatibilité des plateformes, l'optimisation des performances, les correctifs de crash et les problèmes courants. Obtenez de l'aide pour le Steam Deck, les questions sur le multijoueur et les paramètres.",
-      "why": "Pourquoi consulter le support ?",
+    "media": {
+      "title": "Médias de Saros",
+      "description": "Parcourez les bandes-annonces de Saros, les présentations de gameplay, les extraits de FAQ et la couverture vidéo officielle dans un seul hub média.",
+      "metaTitle": "Médias de Saros - Bandes-annonces, Aperçu du gameplay, FAQ et Vidéothèque",
+      "metaDescription": "Regardez la couverture médiatique de Saros, y compris les bandes-annonces cinématiques, les révélations de gameplay, les clips de fonctionnalités et les vidéos officielles de FAQ.",
+      "categoryLabel": "MÉDIAS DE SAROS",
+      "whatIs": "Que sont les Médias de Saros ?",
+      "whatIsDescription": "Les pages Médias de Saros rassemblent les ressources vidéo officielles et les supports visuels clés afin que vous puissiez suivre les nouvelles séquences, comparer les messages des bandes-annonces et revoir les révélations majeures.",
+      "why": "Pourquoi suivre les pages médias de Saros ?",
       "whySteps": {
-        "step1Title": "Résoudre les problèmes techniques",
-        "step1Description": "Résolvez les plantages, les problèmes de performance et les problèmes de compatibilité",
-        "step2Title": "Optimiser les performances",
-        "step2Description": "Configurez les paramètres pour la meilleure expérience sur votre plateforme",
-        "step3Title": "Compatibilité des plateformes",
-        "step3Description": "Apprenez-en plus sur le Steam Deck, le support des manettes et les configurations requises"
+        "step1Title": "Suivre les mises à jour visuelles de Saros",
+        "step1Description": "Retrouvez chaque bande-annonce et présentation de Saros en un seul endroit au lieu de chercher sur plusieurs canaux.",
+        "step2Title": "Comparer les phases de révélation de Saros",
+        "step2Description": "Passez en revue les vidéos cinématiques, de gameplay et de fonctionnalités de Saros pour voir comment le message principal a évolué au fil du temps.",
+        "step3Title": "Référencer les clips officiels de Saros",
+        "step3Description": "Utilisez les pages médias de Saros comme un index rapide pour partager des bandes-annonces ou vérifier à nouveau des moments spécifiques."
       },
-      "featured": "En vedette et essentiels",
-      "all": "Tous les articles de support"
+      "featured": "À la une et Essentiels",
+      "all": "Tous les articles médias de Saros"
+    },
+    "cast": {
+      "title": "Distribution de Saros",
+      "description": "Découvrez les détails de la distribution de Saros, les informations sur les acteurs principaux et les pages de référence liées aux personnages.",
+      "metaTitle": "Distribution de Saros - Acteur principal, Doublage et Références des personnages",
+      "metaDescription": "Explorez la couverture de la distribution de Saros, y compris les détails sur l'acteur principal, les informations sur le doublage et les références clés des personnages.",
+      "categoryLabel": "DISTRIBUTION DE SAROS",
+      "whatIs": "Qu'est-ce que la Distribution de Saros ?",
+      "whatIsDescription": "Les pages de la Distribution de Saros se concentrent sur les acteurs, les talents de doublage et les références d'identité des personnages afin que les joueurs puissent rapidement identifier les personnes derrière la présentation de l'histoire.",
+      "why": "Pourquoi lire les pages de la distribution de Saros ?",
+      "whySteps": {
+        "step1Title": "Identifier les talents principaux de Saros",
+        "step1Description": "Découvrez qui mène les performances de Saros et comment les rôles clés de la distribution se connectent aux moments forts de l'histoire.",
+        "step2Title": "Suivre les détails du doublage de Saros",
+        "step2Description": "Utilisez les références de la distribution de Saros pour suivre les crédits de voix et de performance à travers les annonces officielles.",
+        "step3Title": "Établir le contexte des personnages de Saros",
+        "step3Description": "Associez les pages de la distribution de Saros à la couverture de l'histoire pour comprendre l'importance des personnages avant le lancement."
+      },
+      "featured": "À la une et Essentiels",
+      "all": "Tous les articles sur la distribution de Saros"
+    },
+    "studio": {
+      "title": "Studio Saros",
+      "description": "Découvrez l'équipe de développement de Saros, le contexte de production et les notes technologiques sur l'Unreal Engine 5.",
+      "metaTitle": "Studio Saros - Équipe Housemarque, Développement et Unreal Engine 5",
+      "metaDescription": "Lisez la couverture du studio Saros pour découvrir le parcours de Housemarque, la direction du développement et le contexte de production sur Unreal Engine 5.",
+      "categoryLabel": "STUDIO SAROS",
+      "whatIs": "Qu'est-ce que le Studio Saros ?",
+      "whatIsDescription": "Les pages du Studio Saros expliquent qui construit le jeu, quelle pile technologique est utilisée et comment la direction des développeurs façonne les décisions de conception de Saros.",
+      "why": "Pourquoi suivre les pages du studio Saros ?",
+      "whySteps": {
+        "step1Title": "Comprendre la direction du développement de Saros",
+        "step1Description": "Découvrez comment les objectifs de production de Saros et le parcours de l'équipe se connectent aux priorités de gameplay et de narration.",
+        "step2Title": "Suivre les fondations techniques de Saros",
+        "step2Description": "Suivez la couverture de Saros sur Unreal Engine 5 pour comprendre le rendu, les performances et le contexte du pipeline de production.",
+        "step3Title": "Suivre les mises à jour de l'équipe Saros",
+        "step3Description": "Utilisez les pages du studio Saros pour surveiller les déclarations des développeurs et les actualités axées sur la production dans un seul flux."
+      },
+      "featured": "À la une et Essentiels",
+      "all": "Tous les articles sur le studio Saros"
     }
   }
 }

@@ -38,8 +38,21 @@ const FAQSection = lazy(() => import('@/components/home/FAQSection'))
 const CTASection = lazy(() => import('@/components/home/CTASection'))
 
 // Loading placeholder
-const LoadingPlaceholder = ({ height = 'h-64' }: { height?: string }) => (
-  <div className={`${height} bg-white/5 border border-border rounded-xl animate-pulse`} />
+const LoadingPlaceholder = ({
+  height = 'h-64',
+  label,
+}: {
+  height?: string
+  label: string
+}) => (
+  <div
+    className={`${height} bg-white/5 border border-border rounded-xl animate-pulse`}
+    role="status"
+    aria-live="polite"
+    aria-label={label}
+  >
+    <span className="sr-only">{label}</span>
+  </div>
 )
 
 // Conditionally render text as a link or plain span
@@ -204,7 +217,7 @@ export default function HomePageClient({
           </div>
 
           {/* Stats */}
-          <Suspense fallback={<LoadingPlaceholder height="h-32" />}>
+          <Suspense fallback={<LoadingPlaceholder height="h-32" label={t.common.loading} />}>
             <HeroStats stats={Object.values(t.hero.stats)} />
           </Suspense>
         </div>
@@ -806,7 +819,7 @@ export default function HomePageClient({
       </section>
 
       {/* FAQ Section */}
-      <Suspense fallback={<LoadingPlaceholder />}>
+      <Suspense fallback={<LoadingPlaceholder label={t.common.loading} />}>
         <FAQSection
           title={t.faq.title}
           titleHighlight={t.faq.titleHighlight}
@@ -816,7 +829,7 @@ export default function HomePageClient({
       </Suspense>
 
       {/* CTA Section */}
-      <Suspense fallback={<LoadingPlaceholder />}>
+      <Suspense fallback={<LoadingPlaceholder label={t.common.loading} />}>
         <CTASection
           title={t.cta.title}
           description={t.cta.description}

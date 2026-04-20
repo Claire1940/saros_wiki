@@ -14,7 +14,7 @@
   "default_language": "en",
   "output_dir": "src/locales/",
 
-  "use_value_extraction": false,
+  "use_value_extraction": true,
 
   "protected_terms": {
     "game_names": ["Saros", "SAROS"],
@@ -38,8 +38,8 @@
 
   "theme_name_localizations": {
     "en": "Saros",
-    "ja": "スレイヤーバウンド",
-    "ko": "슬레이어바운드",
+    "ja": "SAROS（サロス）",
+    "ko": "사로스",
     "de": "Saros",
     "fr": "Saros"
   },

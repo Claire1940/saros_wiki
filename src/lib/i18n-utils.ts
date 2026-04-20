@@ -2,7 +2,7 @@ import { routing, type Locale } from '@/i18n/routing'
 
 /**
  * 动态构建语言替代链接配置
- * @param path - 页面路径（如 '/', '/codes' 等）
+ * @param path - 页面路径（如 '/', '/release' 等）
  * @param locale - 当前语言
  * @param baseUrl - 网站基础URL
  * @returns 包含 canonical 和 languages 的配置对象
