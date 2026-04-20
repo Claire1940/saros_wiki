@@ -9,28 +9,28 @@
   "retry_attempts": 3,
   "retry_delay": 5,
 
-  "languages": ["ru", "pt", "de", "es", "ja", "ko", "fr"],
+  "languages": ["ja", "de", "fr"],
   "default_language": "en",
   "output_dir": "content/",
 
   "game_names": {
-    "en": "Lucid Blocks",
-    "ru": "Lucid Blocks",
-    "pt": "Lucid Blocks",
-    "de": "Lucid Blocks",
-    "es": "Lucid Blocks",
-    "ja": "Lucid Blocks",
-    "ko": "Lucid Blocks",
-    "fr": "Lucid Blocks"
+    "en": "Saros",
+    "ja": "SAROS（サロス）",
+    "de": "Saros",
+    "fr": "Saros"
+  },
+
+  "theme_name_localizations": {
+    "en": "Saros",
+    "ja": "スレイヤーバウンド",
+    "ko": "슬레이어바운드",
+    "de": "Saros",
+    "fr": "Saros"
   },
 
   "lang_names": {
-    "ru": "Russian",
-    "pt": "Portuguese (Brazil)",
-    "de": "German",
-    "es": "Spanish (Latin America)",
     "ja": "Japanese",
-    "ko": "Korean",
+    "de": "German",
     "fr": "French"
   },
 
