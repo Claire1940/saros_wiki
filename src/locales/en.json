@@ -82,22 +82,22 @@
       {
         "icon": "Home",
         "title": "Saros Platforms",
-        "description": "PS5 lineup and current platform status"
+        "description": "PS5 confirmed, PS5 Pro enhanced, PS4 not available"
       },
       {
         "icon": "Eye",
         "title": "Saros PC and Steam Status",
-        "description": "What is confirmed and what remains open"
+        "description": "Official PC and Steam status at launch"
       },
       {
         "icon": "AlertTriangle",
         "title": "Saros Pre-Order and Editions",
-        "description": "Edition differences, bonuses, and pricing"
+        "description": "Standard vs Digital Deluxe with bonus details"
       },
       {
         "icon": "ArrowRight",
         "title": "Saros News",
-        "description": "Latest official announcements to track"
+        "description": "Chronological reveal, gameplay, and tech updates"
       },
       {
         "icon": "TrendingUp",
@@ -292,137 +292,118 @@
     "lucidBlocksQualiaAndBaseBuilding": {
       "title": "Saros Platforms",
       "displayType": "cards",
-      "intro": "Saros platform messaging is straightforward in official channels: the launch target is PlayStation 5 family hardware with single-player focus.",
+      "intro": "Saros launches on April 30, 2026 as a PlayStation 5 release. Official updates also detail PS5 Pro enhancements, while the FAQ confirms Saros is not available on PlayStation 4.",
       "cards": [
         {
-          "name": "Saros on PlayStation 5",
-          "description": "Saros is confirmed for PlayStation 5 with full campaign support and all core systems shipping on the base console platform."
+          "name": "Saros Platform: PlayStation 5",
+          "description": "Status: Confirmed. Release: April 30, 2026. Official listing presents Saros as a single-player action title launching on PlayStation 5."
         },
         {
-          "name": "Saros on PlayStation 5 Pro",
-          "description": "Saros includes dedicated PlayStation 5 Pro enhancements, including sharper rendering targets and improved clarity paths."
+          "name": "Saros Platform: PlayStation 5 Pro",
+          "description": "Status: Enhanced. Release: April 30, 2026. Housemarque details upgraded PSSR, higher base render resolution, evolved 3D audio, adaptive triggers, and stronger haptic feedback."
         },
         {
-          "name": "Saros on PlayStation 4",
-          "description": "Saros is not listed as a PlayStation 4 release, and launch communication has remained focused on current-generation PlayStation hardware."
-        },
-        {
-          "name": "Saros Platform Scope at Launch",
-          "description": "Saros is positioned as a single-player console action release, with platform scope presented through official PlayStation channels."
+          "name": "Saros Platform: PlayStation 4",
+          "description": "Status: Not available. Release: Not announced. The official Saros FAQ states the game is exclusive to PS5 consoles and is not available on PS4."
         }
       ],
       "highlights": [
-        "Saros PS5 Confirmed",
-        "Saros PS5 Pro Enhanced",
-        "Saros Single-Player Focus",
-        "Saros PS4 Not Listed"
+        "Saros PS5 Confirmed | Apr 30, 2026",
+        "Saros PS5 Pro Enhanced | Apr 30, 2026",
+        "Saros PS4 Not Available",
+        "Saros Single-Player Action Focus"
       ]
     },
     "lucidBlocksWorldRegions": {
       "title": "Saros PC and Steam Status",
       "displayType": "regionCards",
-      "intro": "Search interest around a Saros PC release remains high, but current official messaging confirms PlayStation launch details first and does not publish a dated PC or Steam schedule.",
+      "intro": "Current public launch plans for Saros are centered on PlayStation 5. Official materials confirm the PS5 release date, while public PC and Steam launch details are not announced.",
       "regions": [
         {
-          "name": "Saros Official PC Status",
-          "type": "Current Confirmation",
-          "description": "Saros official pages focus on PlayStation 5 and PlayStation 5 Pro release details, with no announced Saros PC release date yet."
+          "name": "Saros PC Version Status",
+          "type": "Official Status",
+          "description": "No PC version is confirmed. Official PlayStation materials currently list Saros only for PlayStation 5 launch plans."
         },
         {
-          "name": "Saros Steam Store Status",
-          "type": "Store Visibility",
-          "description": "There is no official Saros Steam store launch schedule published alongside the confirmed console release timeline."
+          "name": "Saros Steam Release Date Status",
+          "type": "Official Status",
+          "description": "No Steam release date is announced. The only confirmed public release date is April 30, 2026 for PlayStation 5."
         },
         {
-          "name": "Saros Community Expectation",
-          "type": "Search Intent",
-          "description": "Players continue checking Saros PC and Steam status because Housemarque history keeps future platform discussion active."
+          "name": "Saros Confirmed Launch Scope",
+          "type": "Confirmed Right Now",
+          "description": "Saros launches on PlayStation 5 on April 30, 2026. Official feature updates also describe PS5 Pro enhancements including upgraded PSSR, higher base render resolution, 3D audio, adaptive triggers, and haptics."
         },
         {
-          "name": "Saros Tracking Strategy",
-          "type": "What to Watch",
-          "description": "Use Saros official channels for platform updates first, then mirror updates into your timeline and FAQ sections."
+          "name": "Saros Official FAQ Platform Scope",
+          "type": "Official FAQ",
+          "description": "The Saros FAQ describes the game as a single-player action title, confirms PS5 exclusivity, and states that Saros is not available on PS4."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
       "title": "Saros Pre-Order and Editions",
       "displayType": "itemCards",
-      "intro": "Saros edition decisions are mainly about early access timing, cosmetic bundles, and whether launch-week access speed matters for your play plan.",
+      "intro": "Saros has two digital editions on PlayStation Store. Both include the full game and the same pre-order armor bonus, while Digital Deluxe adds extra armor sets and 48-hour early access.",
       "creatures": [
         {
           "name": "Saros Standard Edition",
-          "role": "Standard Edition",
-          "description": "The Saros Standard Edition is the baseline purchase path and includes full game access at global launch on April 30, 2026."
+          "role": "$69.99 | Base game",
+          "description": "Saros Standard Edition includes the full game plus the shared pre-order Hands of Shore Armor bonus."
         },
         {
           "name": "Saros Digital Deluxe Edition",
-          "role": "Digital Deluxe",
-          "description": "Saros Digital Deluxe adds 48-hour early access and additional cosmetic bundle value aimed at launch-week early adopters."
+          "role": "$79.99 | Best extras",
+          "description": "Saros Digital Deluxe includes the full game, Astra Armor, Onryo Armor, Midgard Armor, 48-hour early access, and the same pre-order Hands of Shore Armor bonus."
         },
         {
           "name": "Saros Pre-Order Bonus",
-          "role": "Pre-Order Reward",
-          "description": "Saros pre-order messaging highlights armor-themed bonuses that are positioned as launch-era extras for early buyers."
-        },
-        {
-          "name": "Saros Early Access Timing",
-          "role": "Access Window",
-          "description": "Saros early access begins before full release through the Digital Deluxe path, useful for players who want immediate progression start."
-        },
-        {
-          "name": "Saros Pricing Snapshot",
-          "role": "Price Info",
-          "description": "Saros Standard Edition is listed at $69.99 in official PlayStation storefront references used across release communication."
-        },
-        {
-          "name": "Saros Edition Decision Rule",
-          "role": "Buying Strategy",
-          "description": "Choose Saros Digital Deluxe for timing priority, or Saros Standard Edition if early access and bonus cosmetics are not required."
+          "role": "Shared bonus",
+          "description": "Any Saros pre-order includes the Hands of Shore Armor bonus, regardless of whether you choose Standard or Digital Deluxe."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
       "title": "Saros News",
       "displayType": "cards",
-      "intro": "Saros news coverage should prioritize date changes, new gameplay reveals, cast updates, and platform feature posts in chronological order.",
+      "intro": "This Saros timeline highlights major updates in chronological order, from the first reveal to the latest PS5 Pro technical breakdown before launch.",
       "items": [
         {
-          "name": "Saros Announcement Coverage",
-          "type": "Reveal News",
-          "description": "Track Saros reveal milestones, core premise updates, and new official positioning statements as they are published."
+          "name": "Saros News | April 16, 2026: PS5 and PS5 Pro Features Detailed",
+          "type": "Technical",
+          "description": "Housemarque detailed upgraded PSSR, higher base render resolution on PS5 Pro, evolved 3D audio, adaptive trigger behavior, and haptic feedback improvements."
         },
         {
-          "name": "Saros Release-Date Posts",
-          "type": "Launch News",
-          "description": "Maintain Saros date updates in timeline format so users can see schedule changes and current launch certainty quickly."
+          "name": "Saros News | March 26, 2026: Hands-On Report Published",
+          "type": "Hands-on",
+          "description": "A three-hour Saros preview covered the first two biomes, Soltari Shield usage, eclipse risk-reward events, and permanent upgrades through the Armor Matrix."
         },
         {
-          "name": "Saros Trailer Drops",
-          "type": "Video News",
-          "description": "Summarize each Saros trailer with key gameplay and story takeaways to avoid forcing users through long videos first."
+          "name": "Saros News | February 12, 2026: Eclipse Escalation Gameplay Revealed",
+          "type": "Gameplay",
+          "description": "The update explained The Passage hub, armor customization paths, challenge modifiers, and how eclipse events reshape Saros runs on Carcosa."
         },
         {
-          "name": "Saros Gameplay Hands-On",
-          "type": "Preview News",
-          "description": "Collect Saros hands-on reports to highlight confirmed combat behavior, run pacing, and difficulty framing details."
+          "name": "Saros News | December 11, 2025: April 30 Launch Confirmed",
+          "type": "Release Date",
+          "description": "A new trailer confirmed Saros launches on April 30, 2026, opened pre-orders, and expanded the story setup around Arjun Devraj and Carcosa."
         },
         {
-          "name": "Saros PS5 and PS5 Pro Updates",
-          "type": "Tech News",
-          "description": "Consolidate Saros technical posts about rendering targets, immersion features, and performance priorities."
+          "name": "Saros News | September 25, 2025: Extended Gameplay Shared",
+          "type": "Gameplay",
+          "description": "Housemarque published a deeper Saros gameplay update and, at that time, announced a March 20, 2026 launch target before the later move to April 30."
         },
         {
-          "name": "Saros Community Watchlist",
-          "type": "Community News",
-          "description": "Surface high-signal Saros community discussions that help explain what players are asking most often."
+          "name": "Saros News | February 13, 2025: Saros Officially Announced",
+          "type": "Reveal",
+          "description": "Housemarque introduced Saros as a new IP, confirmed PS5 and PS5 Pro plans, revealed Arjun Devraj, and explained permanent progression after each death."
         }
       ],
       "unlockMilestones": [
-        "Saros Date Update Logged",
-        "Saros Trailer Update Logged",
-        "Saros Gameplay Update Logged",
-        "Saros Platform Update Logged"
+        "Saros Reveal Published",
+        "Saros Launch Date Updated",
+        "Saros Hands-On Report Added",
+        "Saros PS5 Pro Technical Update Added"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {

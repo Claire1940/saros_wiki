@@ -1,5 +1,5 @@
 import { getLatestArticles } from '@/lib/getLatestArticles'
-import { buildModuleLinkMap } from '@/lib/buildModuleLinkMap'
+import type { ModuleLinkMap } from '@/lib/buildModuleLinkMap'
 import type { Language } from '@/lib/content'
 import HomePageClient from './HomePageClient'
 
@@ -13,7 +13,8 @@ export default async function HomePage({ params }: PageProps) {
 
   // 服务器端获取最新文章数据
   const latestArticles = await getLatestArticles(locale as Language, 30)
-  const moduleLinkMap = await buildModuleLinkMap(locale as Language)
+  // Homepage modules are rendered as plain text blocks without internal article links.
+  const moduleLinkMap: ModuleLinkMap = {}
 
   const homeConfig = {
     heroPrimaryUrl: 'https://www.playstation.com/en-us/games/saros/',
