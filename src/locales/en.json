@@ -33,27 +33,27 @@
     "readMore": "Read More"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "PS5 Sci-Fi Action Shooter",
+    "title": "SAROS",
+    "description": "A dark sci-fi action hub covering SAROS release date, trailers, story, characters, combat systems, editions, and PS5 Pro features from Housemarque.",
+    "getFreeCodesCTA": "View Release Guide",
+    "playOnSteamCTA": "Official PlayStation Page",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "Apr 30, 2026",
+        "label": "Release Date"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "$69.99",
+        "label": "Standard Price"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "1.1M+",
+        "label": "Gameplay Trailer Views"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "4.3K",
+        "label": "Reddit Members"
       }
     }
   },
@@ -784,26 +784,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready for SAROS Updates?",
+    "description": "Join the official Housemarque community and track every SAROS trailer, release update, and gameplay reveal.",
+    "joinCommunity": "Join Housemarque Discord",
+    "joinGame": "Official PlayStation Page"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Saros Wiki",
+    "description": "Your complete SAROS resource hub for release updates, story breakdowns, combat guides, and trailer analysis.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
     "discord": "Discord",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "steamCommunity": "Reddit",
+    "steamStore": "YouTube",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Saros Wiki. Not affiliated with Housemarque or Sony Interactive Entertainment.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
