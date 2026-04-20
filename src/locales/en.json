@@ -122,22 +122,22 @@
       {
         "icon": "Gamepad2",
         "title": "Saros Characters and Cast",
-        "description": "Playable lead and confirmed cast details"
+        "description": "Arjun, Sheridan, and the Passage ensemble at a glance"
       },
       {
         "icon": "Settings",
         "title": "Saros Returnal Comparison",
-        "description": "How Saros differs from Returnal"
+        "description": "Lead, platform, progression, pacing, and combat differences"
       },
       {
         "icon": "Clock",
         "title": "Saros Multiplayer and Co-Op",
-        "description": "Single-player scope and online status"
+        "description": "Saros multiplayer scope, co-op status, and Remote Play notes"
       },
       {
         "icon": "Shield",
         "title": "Saros PS5 Pro Features",
-        "description": "PSSR, performance targets, and immersion"
+        "description": "PS5 vs PS5 Pro clarity, frame rate, audio, and loading"
       }
     ]
   },
@@ -555,127 +555,131 @@
     "lucidBlocksSteamDeckAndController": {
       "title": "Saros Characters and Cast",
       "displayType": "accordion",
-      "intro": "Saros character coverage blends protagonist motivation, supporting cast reveals, and performance details that shape tone and narrative weight.",
+      "intro": "Saros now has a clearly named lead, a returning Housemarque performer, and multiple publicly confirmed supporting cast members tied to Carcosa, The Passage, and Echelon IV.",
       "faqs": [
         {
-          "question": "Who is the Saros protagonist?",
-          "answer": "Saros follows Arjun Devraj, the lead character sent into Carcosa to investigate a hostile colony situation under eclipse conditions."
+          "question": "Who is Arjun Devraj in Saros?",
+          "answer": "Arjun Devraj is the Saros protagonist, a Soltari Enforcer investigating the eclipse-struck world of Carcosa. Rahul Kohli performs Arjun as the central point-of-view character."
         },
         {
-          "question": "How is Rahul Kohli connected to Saros?",
-          "answer": "Rahul Kohli performs Arjun Devraj in Saros, anchoring the main perspective across both combat and narrative sequences."
+          "question": "Who is Sheridan Bouchard in Saros?",
+          "answer": "Sheridan Bouchard is the commander of Echelon Four in Saros and is performed by Jane Perry. She is presented as a major authority figure in the mission chain."
         },
         {
-          "question": "Which supporting names are confirmed in Saros materials?",
-          "answer": "Saros official communication has referenced key names including Nitya Chandran and ensemble members such as Sheridan Bouchard."
+          "question": "Who is Jerome Jackson in Saros?",
+          "answer": "Jerome Jackson is a publicly named Saros ensemble character performed by Ben Prendergast, revealed as part of the expanding colony cast on Carcosa."
         },
         {
-          "question": "How does Saros present character relationships?",
-          "answer": "Saros develops character context through cinematics, dialogue, logs, and hub interactions between expeditions."
+          "question": "Who is Sebastian Torres in Saros?",
+          "answer": "Sebastian Torres is another confirmed supporting character in Saros, performed by David DeSantos and tied to the broader Echelon IV crew interactions."
         },
         {
-          "question": "Why does the Saros cast matter for gameplay understanding?",
-          "answer": "Character context in Saros supports mission goals, progression motivation, and emotional framing for repeated high-stakes runs."
+          "question": "What is The Passage in Saros cast coverage?",
+          "answer": "The Passage is Saros' between-run hub where players reconnect with Echelon IV crew members as eclipse pressure escalates and trust inside the group begins to fracture."
         },
         {
-          "question": "Where should I track new Saros cast updates?",
-          "answer": "Track Saros cast updates via official trailers, PlayStation Blog posts, and developer communications tied to release milestones."
+          "question": "Where should I track Saros cast updates?",
+          "answer": "Follow Saros cast updates through the official Saros game page, PlayStation Blog story posts, and launch-window trailers featuring character reveals."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
       "title": "Saros Returnal Comparison",
       "displayType": "cards",
-      "intro": "Saros shares Housemarque action DNA with Returnal, but current official previews position Saros as a distinct progression and pacing design direction.",
+      "intro": "Saros and Returnal share Housemarque action DNA, but their setup, progression model, combat posture, pacing profile, and story framing differ in ways that matter for first-time players.",
       "settings": [
         {
-          "name": "Saros vs Returnal Combat Rhythm",
-          "type": "Combat",
-          "description": "Saros keeps projectile intensity but adds a stronger shield-conversion loop that emphasizes turning defense into offense."
+          "name": "Saros vs Returnal Lead and Setup",
+          "type": "Lead & Setup",
+          "description": "Saros: Arjun Devraj operates on eclipse-struck Carcosa as a Soltari Enforcer. Returnal: Selene crash-lands on Atropos and fights through a repeating survival cycle."
         },
         {
-          "name": "Saros vs Returnal Progression Model",
+          "name": "Saros vs Returnal Platform Footprint",
+          "type": "Platform",
+          "description": "Saros: Launch messaging is PS5-focused with PS5 Pro enhancement support. Returnal: Available across PS5 family hardware and PC."
+        },
+        {
+          "name": "Saros vs Returnal Death Progression",
           "type": "Progression",
-          "description": "Saros places more emphasis on permanent progression layers, reducing full-reset friction across repeated attempts."
+          "description": "Saros: Death feeds persistent growth through loadouts, upgrades, and Second Chance recovery. Returnal: Adaptation across repeats remains central with a stronger reset feel per cycle."
         },
         {
-          "name": "Saros vs Returnal Run Duration",
+          "name": "Saros vs Returnal Combat Posture",
+          "type": "Combat",
+          "description": "Saros: Shield-led aggression emphasizes absorbing blue projectiles, parrying, and converting pressure into burst damage. Returnal: Bullet-hell evasion, alt-fire rhythm, and mobility control remain the core posture."
+        },
+        {
+          "name": "Saros vs Returnal Run Pacing",
           "type": "Run Pace",
-          "description": "Preview commentary indicates Saros is tuned toward more compact run pacing with clearer session boundaries."
+          "description": "Saros: Preview coverage points to compact sessions around the half-hour mark. Returnal: Runs generally feel longer and carry harsher reset pressure between complete cycles."
         },
         {
-          "name": "Saros vs Returnal Narrative Delivery",
+          "name": "Saros vs Returnal Narrative Framing",
           "type": "Story",
-          "description": "Saros positions a named protagonist and explicit cast framing earlier in the player journey."
-        },
-        {
-          "name": "Saros vs Returnal Risk Layer",
-          "type": "Systems",
-          "description": "Saros eclipse escalation creates a direct risk-reward toggle that players can factor into build and route planning."
-        },
-        {
-          "name": "Saros vs Returnal Entry Curve",
-          "type": "Accessibility",
-          "description": "Saros messaging highlights progression continuity designed to keep momentum for players balancing challenge with steady advancement."
+          "description": "Saros: Ensemble dynamics in The Passage and across Carcosa are front-loaded. Returnal: The narrative angle stays more solitary and introspective around Selene's loop."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
       "title": "Saros Multiplayer and Co-Op",
       "displayType": "timeline-cards",
-      "intro": "Saros multiplayer questions are common, so this section keeps the current single-player scope clear and prevents confusion during launch coverage.",
+      "intro": "Saros multiplayer and co-op questions are frequent, so this module keeps the official launch scope explicit: single-player focus, no published co-op mode, and clear platform feature labeling.",
       "entries": [
         {
-          "type": "Official FAQ",
-          "title": "Saros Is Positioned as a Single-Player Game",
-          "description": "Current Saros official messaging presents the game as a focused single-player action experience."
+          "type": "Multiplayer Status",
+          "title": "Is Saros multiplayer?",
+          "description": "No. Official Saros FAQ messaging describes Saros as a single-player action game."
         },
         {
           "type": "Co-Op Status",
-          "title": "Saros Co-Op Is Not Announced for Launch",
-          "description": "There is no published Saros launch plan for cooperative multiplayer modes in the official release framing."
+          "title": "Does Saros have co-op?",
+          "description": "No co-op mode is listed in current Saros launch information. Public product summaries present Saros as an offline single-player title."
         },
         {
           "type": "Online Features",
-          "title": "Saros Core Loop Does Not Depend on Matchmaking",
-          "description": "Saros progression and combat systems are framed around solo run structure rather than networked team play."
+          "title": "Does Saros support online multiplayer or cross-play?",
+          "description": "Current Saros feature listings do not show online multiplayer or cross-play support. Remote Play is the primary online-adjacent feature called out."
         },
         {
-          "type": "Platform Messaging",
-          "title": "Saros Communication Prioritizes Story and Combat",
-          "description": "Saros launch communication emphasizes narrative, progression, and hardware features over online service features."
+          "type": "Remote Play",
+          "title": "Does Saros support Remote Play?",
+          "description": "Yes. Saros feature listings identify Remote Play support for compatible PlayStation sessions."
         },
         {
-          "type": "What to Monitor",
-          "title": "Saros Future Mode Updates Should Be Tracked by Channel",
-          "description": "If Saros mode scope changes later, official game pages and PlayStation Blog updates will be the fastest primary source."
+          "type": "PS Plus",
+          "title": "Does Saros require PlayStation Plus?",
+          "description": "Current Saros product details do not list a PlayStation Plus requirement for the core single-player experience."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
       "title": "Saros PS5 Pro Features",
       "displayType": "steps",
-      "intro": "Saros PS5 Pro coverage focuses on visual clarity, smooth action response, and immersion upgrades built for high-tempo combat readability.",
+      "intro": "Saros PS5 and PS5 Pro technical details now specify image quality behavior, frame rate targets, cinematic cadence, audio design, DualSense usage, and loading expectations.",
       "steps": [
         {
-          "title": "Saros PS5 Pro Rendering Clarity",
-          "description": "Saros PS5 Pro feature messaging highlights clearer image output paths intended to preserve detail in dense combat scenes."
+          "title": "Saros Image Clarity Across PS5 and PS5 Pro",
+          "description": "Saros on PS5 supports 4K presentation on compatible displays, while Saros on PS5 Pro uses updated PSSR to deliver a sharper scene presentation that tracks close to native 4K clarity."
         },
         {
-          "title": "Saros PSSR Integration Focus",
-          "description": "Saros technical updates reference PSSR-based enhancement goals for improved resolution presentation with stable readability."
+          "title": "Saros Gameplay Frame Rate Targets",
+          "description": "Saros gameplay is described at 60fps on both PS5 and PS5 Pro, with the PS5 Pro version pairing that target with a higher base render resolution for cleaner motion detail."
         },
         {
-          "title": "Saros 60fps-Oriented Gameplay Target",
-          "description": "Saros action pacing benefits from high frame-rate targets designed to support reaction timing and projectile tracking."
+          "title": "Saros Story Cinematics at 30fps",
+          "description": "Saros story cinematics run at 30fps for higher visual quality on PS5, and Saros PS5 Pro applies the same cadence with an even higher peak resolution."
         },
         {
-          "title": "Saros DualSense and 3D Audio Layer",
-          "description": "Saros on PS5 family hardware uses controller haptics, adaptive triggers, and spatial audio cues for stronger encounter awareness."
+          "title": "Saros Tempest 3D Audio Layer",
+          "description": "Saros uses Tempest 3D AudioTech on PS5 family systems to position hostiles, ambience, and combat cues around the player with the same spatial design on PS5 Pro."
         },
         {
-          "title": "Saros Load Flow and Session Pace",
-          "description": "Fast-loading expectations in Saros support repeat-run structure by minimizing downtime between deaths, upgrades, and redeployment."
+          "title": "Saros DualSense Combat Feedback",
+          "description": "Saros maps a half-pull on L2 to alt-fire and a full-pull to the Eclipse-driven Power Weapon, with adaptive triggers and haptics carrying the same combat language on PS5 and PS5 Pro."
+        },
+        {
+          "title": "Saros SSD Loading and Return Flow",
+          "description": "Saros uses the ultra-high-speed SSD path for fast returns after death and quick transitions, while Saros on PS5 Pro keeps the same loading pipeline alongside sharper rendering."
         }
       ]
     }
