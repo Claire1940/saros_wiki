@@ -16,14 +16,14 @@ export default async function HomePage({ params }: PageProps) {
   const moduleLinkMap = await buildModuleLinkMap(locale as Language)
 
   const homeConfig = {
-    heroPrimaryUrl: 'https://blog.playstation.com/2025/12/11/saros-out-april-30-new-trailer-reveals-gameplay-story-details/',
-    heroSecondaryUrl: 'https://www.playstation.com/en-us/games/saros/',
+    heroPrimaryUrl: 'https://www.playstation.com/en-us/games/saros/',
+    heroSecondaryUrl: 'https://housemarque.com/games/saros/',
     videoId: 'OcLGdMG0L8Q',
     videoTitle: 'SAROS - Gameplay Overview Trailer | PS5 Games',
     crashCommunityUrl: 'https://discord.com/invite/housemarque',
     crashSupportUrl: 'https://www.reddit.com/r/Saros/',
     ctaCommunityUrl: 'https://discord.com/invite/housemarque',
-    ctaGameUrl: 'https://www.playstation.com/en-us/games/saros/',
+    ctaGameUrl: 'https://store.playstation.com/en-us/product/UP9000-PPSA07632_00-SAROS00000000000',
     footerLinks: {
       discord: 'https://discord.com/invite/housemarque',
       twitter: 'https://x.com/Housemarque',
@@ -41,7 +41,7 @@ export default async function HomePage({ params }: PageProps) {
         "url": siteUrl,
         "name": 'Saros Wiki',
         "description":
-          'Track SAROS release date, trailers, story details, combat systems, editions, and PS5 Pro features in one clean hub.',
+          'Track Saros release milestones, trailers, story details, combat systems, editions, and PS5 Pro features in one focused hub.',
         "image": {
           "@type": "ImageObject",
           "url": `${siteUrl}/images/hero.webp`,
@@ -61,7 +61,7 @@ export default async function HomePage({ params }: PageProps) {
         "name": 'Saros Wiki',
         "alternateName": 'SAROS',
         "url": siteUrl,
-        "description": 'Community resource hub for SAROS release updates, trailers, and gameplay guides.',
+        "description": 'Community resource hub for Saros release updates, trailers, story guides, and combat coverage.',
         "logo": {
           "@type": "ImageObject",
           "url": `${siteUrl}/android-chrome-512x512.png`,
