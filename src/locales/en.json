@@ -102,22 +102,22 @@
       {
         "icon": "TrendingUp",
         "title": "Saros Combat Guide",
-        "description": "Shield loop, movement, and encounter tempo"
+        "description": "Step flow for shield absorption, burst timing, and boss pressure"
       },
       {
         "icon": "Star",
         "title": "Saros Progression System",
-        "description": "Permanent growth between runs"
+        "description": "Passage, Armor Matrix, and persistent growth between runs"
       },
       {
         "icon": "ClipboardCheck",
         "title": "Saros Difficulty and Run Length",
-        "description": "Run duration expectations and pacing"
+        "description": "Run length, retry pacing, and challenge-tuning overview"
       },
       {
         "icon": "MessageCircle",
         "title": "Saros Eclipse System",
-        "description": "Risk-reward escalation under the eclipse"
+        "description": "How Saros Eclipse changes hazards, enemies, and rewards"
       },
       {
         "icon": "Gamepad2",
@@ -409,130 +409,113 @@
     "lucidBlocksFarmingAndGrowth": {
       "title": "Saros Combat Guide",
       "displayType": "cards",
-      "intro": "Saros combat emphasizes active movement, projectile conversion, and controlled aggression. The goal is to turn enemy pressure into your own advantage loop.",
+      "intro": "Saros rewards players who move into danger instead of always backing away from it. Arjun's combat kit is built around momentum, where the Soltari Shield, Power Weapon, melee pressure, and Eclipse corruption all feed into proactive decision-making.",
       "sections": [
         {
-          "name": "Saros Movement Discipline",
-          "description": "Use Saros dash timing to reposition early instead of reacting late, especially when projectile density starts stacking."
+          "name": "Saros Combat Guide Step 1: Learn the Full Kit",
+          "description": "Each Saros run starts from a loadout built from Soltari human weapons and Carcosan alien weapons. Standard weapons use primary fire on R2, alt-fire on a half-pull of L2, while Arjun also uses dash, jump, melee, shield, and Power Weapon tools in every fight."
         },
         {
-          "name": "Saros Shield Absorption Timing",
-          "description": "Absorb valid Saros projectile patterns with the Soltari Shield to bank energy instead of spending every window on pure evasion."
+          "name": "Saros Combat Guide Step 2: Use the Soltari Shield Offensively",
+          "description": "Hold R1 to raise the Soltari Shield as long as enough Shield Power remains. Blue enemy projectiles can be absorbed instead of only avoided, turning incoming bullet patterns into fuel for your next burst."
         },
         {
-          "name": "Saros Power Weapon Conversion",
-          "description": "Spend stored Saros shield energy in high-value windows against elites and boss phase transitions."
+          "name": "Saros Combat Guide Step 3: Convert Absorbed Shots Into Power Bursts",
+          "description": "A full pull of L2 activates the Carcosan Power Weapon, and R2 releases stored energy. Official combat footage shows this conversion deleting smaller enemies or groups when used at the right timing window."
         },
         {
-          "name": "Saros Mid-Range Engagement",
-          "description": "Saros combat rewards staying active at controllable mid-range where dodge lines, target priority, and counter windows stay readable."
+          "name": "Saros Combat Guide Step 4: Rotate Dodge, Melee, and Absorb",
+          "description": "Dash negates most damage while active, melee can break enemy shields, and Saros encounters reward rapid swaps between evasion and pressure. The strongest loop is constant micro-decisions, not one fixed tactic."
         },
         {
-          "name": "Saros Biome Threat Control",
-          "description": "Adjust Saros tempo by biome state: push when patterns are stable and slow down when corruption pressure rises."
+          "name": "Saros Combat Guide Step 5: Treat Eclipse Bullets as a Resource",
+          "description": "During a Saros Eclipse, enemies add yellow corrupted shots. These can still be absorbed, but stored corruption temporarily lowers Arjun's maximum armor until you spend it with a Power Weapon blast."
         },
         {
-          "name": "Saros Boss Phase Management",
-          "description": "Read Saros boss phases in chunks, protecting resources early and committing burst damage when pattern confidence is high."
+          "name": "Saros Combat Guide Step 6: Use Controlled Aggression on Bosses",
+          "description": "Boss encounters like Prophet and Bastion reward shield timing and spacing discipline. Some patterns are safer to outrun, but others are far more profitable when you hold position, absorb orbiting bullets, and avoid the core threat."
         }
       ],
       "growthMilestones": [
-        "Saros Shield Loop Learned",
-        "Saros Burst Window Control",
-        "Saros Biome Tempo Control",
-        "Saros Boss Pattern Stability"
+        "Saros Full Kit Familiarity Established",
+        "Saros Shield-to-Burst Conversion Stable",
+        "Saros Eclipse Corruption Control Learned",
+        "Saros Boss Aggression Timing Improved"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
       "title": "Saros Progression System",
       "displayType": "itemCards",
-      "intro": "Saros progression is built around permanent advancement between runs, with The Passage and Armor Matrix forming the backbone of long-term strength growth.",
+      "intro": "Saros is built around coming back stronger after every failure. The major structural shift is permanent progression, where The Passage, the Armor Matrix, retained weapons, and World Dial routing make every run feed your next attempt.",
       "priorities": [
         {
-          "name": "Saros Passage Upgrade Routing",
+          "name": "Saros Progression Step 1: Every Death Moves the Build Forward",
           "priority": "Essential",
-          "description": "Prioritize Saros Passage systems that improve run-to-run consistency before chasing narrower situational upgrades."
+          "description": "Saros treats each death as valuable progress. The world changes after failed runs, but Arjun can permanently upgrade his loadout from evolving weapons and suit upgrades so each cycle starts stronger."
         },
         {
-          "name": "Saros Armor Matrix Baseline",
+          "name": "Saros Progression Step 2: Return to The Passage Between Cycles",
           "priority": "Essential",
-          "description": "Secure Saros Armor Matrix fundamentals early to stabilize survivability and give each run stronger recovery options."
+          "description": "The Passage is the Saros hub between runs, where Arjun meets other Echelon IV survivors, reviews world details, and converts run resources into long-term growth."
         },
         {
-          "name": "Saros Second Chance Planning",
+          "name": "Saros Progression Step 3: Build Around the Armor Matrix",
           "priority": "Very High",
-          "description": "Use Saros Second Chance mechanics as part of a planned route, not as emergency-only fallback behavior."
+          "description": "Primary lets you reshape Enforcer Armor through the Armor Matrix with upgrades such as higher max armor integrity, faster Lucenite gain, longer shield uptime, Second Chance unlocks, stronger starting stats, and higher base gear levels."
         },
         {
-          "name": "Saros Weapon Persistence Value",
+          "name": "Saros Progression Step 4: Keep Run Resources for Long-Term Growth",
           "priority": "Very High",
-          "description": "Leverage Saros weapon carryover rules to reduce reset friction and maintain momentum across repeated attempts."
+          "description": "Armor Matrix currencies are found in caches and from defeated enemies, then retained when you die and return to The Passage. Even short failed runs can still push your Saros build upward."
         },
         {
-          "name": "Saros Eclipse Reward Control",
+          "name": "Saros Progression Step 5: Use Retained Weapons to Reduce Reset Friction",
           "priority": "High",
-          "description": "Balance Saros eclipse risk against your current build strength instead of forcing escalation every run."
+          "description": "Once systems open up, collected primary weapons and Power Weapons are retained on death. A weapon that fits your Saros style remains part of your next attempt instead of forcing a full restart."
         },
         {
-          "name": "Saros Lucenite Investment Order",
+          "name": "Saros Progression Step 6: Route Biomes with the World Dial",
           "priority": "High",
-          "description": "Spend Saros Lucenite on upgrades that lift core consistency first, then branch into specialized optimization paths."
+          "description": "Unlocked Saros biomes can be reached directly through the World Dial for faster deep attempts, while some Armor Matrix nodes remain gated behind boss clears to keep progression tied to combat execution."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
       "title": "Saros Difficulty and Run Length",
       "displayType": "cards",
-      "intro": "Saros is designed around repeatable runs, increasing danger states, and stronger recovery tools than traditional one-shot progression loops.",
+      "intro": "Saros keeps tense Housemarque action while reducing dead time between meaningful attempts. The core pacing shift is shorter average runs, faster retries, and tunable challenge systems that preserve difficulty without forcing long recovery loops.",
       "groups": [
         {
-          "name": "Saros Run Length Expectations",
+          "name": "Saros Run Length and Retry Pace",
           "achievements": [
             {
-              "title": "Saros Typical Run Window",
-              "description": "Preview messaging points to compact run pacing that stays easier to schedule for regular sessions."
+              "title": "How long is a normal Saros run?",
+              "description": "A normal Saros run is designed to last around 30 minutes, built as repeatable excursions rather than mandatory multi-hour recovery sessions."
             },
             {
-              "title": "Saros Session Planning",
-              "description": "Saros supports shorter strategic sessions by preserving meaningful progression across repeated attempts."
+              "title": "Can Saros runs still be longer than that?",
+              "description": "Yes. Marathon Saros runs are still possible, and players can chain environments when they want longer sessions. The shorter loop changes the average cadence, not the maximum play length."
             },
             {
-              "title": "Saros Momentum Across Runs",
-              "description": "Run value in Saros is cumulative when upgrades, route knowledge, and build confidence are tracked together."
+              "title": "Why did Housemarque shorten the Saros loop?",
+              "description": "The Saros goal is to preserve danger while removing the helpless feeling of needing several hours to recover progress after a death."
             }
           ]
         },
         {
-          "name": "Saros Difficulty Control Points",
+          "name": "Saros Challenge Tuning and Recovery",
           "achievements": [
             {
-              "title": "Saros Pattern Learning Curve",
-              "description": "Difficulty in Saros improves quickly when enemy pattern reads and shield usage become consistent."
+              "title": "What makes Saros retries less punishing?",
+              "description": "Deaths send Arjun back to The Passage for permanent upgrades in the Armor Matrix, and unlocked biomes can be revisited directly through the World Dial."
             },
             {
-              "title": "Saros Escalation Decision Layer",
-              "description": "Eclipse escalation lets Saros players tune risk for reward instead of following one fixed pressure curve."
+              "title": "Does Saros have ways to tune challenge?",
+              "description": "Yes. Saros Carcosan Modifiers let you balance Protection Modifiers and Trial Modifiers before runs, including options that reduce damage intake or increase enemy pressure."
             },
             {
-              "title": "Saros Recovery Tools",
-              "description": "Persistent progression gives Saros a smoother difficulty ramp over long-term play than pure reset systems."
-            }
-          ]
-        },
-        {
-          "name": "Saros Practical Preparation",
-          "achievements": [
-            {
-              "title": "Saros Loadout Consistency",
-              "description": "Use repeatable starting loadouts until core encounter reads are stable under pressure."
-            },
-            {
-              "title": "Saros Boss Prep Focus",
-              "description": "Treat boss practice in Saros as phase-based repetition, not one-run all-in execution."
-            },
-            {
-              "title": "Saros Progress Tracking",
-              "description": "Track build outcomes after each run to identify where risk decisions improve or reduce consistency."
+              "title": "Is Saros still a hard game?",
+              "description": "Yes. Dense bullets, multiphase bosses, shield timing, and movement precision are still central to Saros. The difference is stronger control over recovery, progression, and challenge balance."
             }
           ]
         }
@@ -541,31 +524,31 @@
     "lucidBlocksSingleplayerAndPlatformFAQ": {
       "title": "Saros Eclipse System",
       "displayType": "accordion",
-      "intro": "The Saros eclipse system is a defining gameplay layer that changes encounter pressure, resource value, and run-level decisions.",
+      "intro": "The Saros Eclipse is not only a visual event. It changes combat rules, enemy patterns, loot value, exploration hazards, and how corruption feeds back into Arjun's power loop across each run.",
       "faqs": [
         {
-          "question": "What is the Saros eclipse escalation system?",
-          "answer": "The Saros eclipse escalation system increases danger inside a biome while boosting reward potential for players who accept the added pressure."
+          "question": "What triggers a Saros Eclipse?",
+          "answer": "Each Saros area contains a multi-armed device that can initiate a biome-specific Eclipse. The first activation demonstrates the system, and later activations become an optional risk-reward decision."
         },
         {
-          "question": "How does the Saros eclipse affect enemy attacks?",
-          "answer": "During Saros eclipse states, corrupted projectile behavior and encounter density can increase, forcing cleaner movement and shield discipline."
+          "question": "What changes when a Saros Eclipse begins?",
+          "answer": "A Saros Eclipse shifts visual and audio presentation while adding biome-specific rule changes. Previewed examples include reactivated machinery hazards and previously safe water becoming dangerous."
         },
         {
-          "question": "Why should I trigger a Saros eclipse run?",
-          "answer": "A Saros eclipse run can improve resource gains and expose higher-value combat opportunities when your build is ready for elevated risk."
+          "question": "How does a Saros Eclipse change enemies and bullets?",
+          "answer": "Saros enemy behavior escalates, and yellow corrupted projectile patterns appear. Corrupted shots can reduce maximum armor integrity and force stricter shield timing decisions."
         },
         {
-          "question": "How does Saros connect eclipse mechanics to progression?",
-          "answer": "Saros links eclipse-level risk with long-term growth decisions, so escalation affects both immediate run outcomes and persistent development paths."
+          "question": "Why trigger a Saros Eclipse on purpose?",
+          "answer": "Because Saros reward value rises with danger. Lucenite becomes more valuable during Eclipse states, and corrupted weapons or artifacts can appear with unique properties for that world state."
         },
         {
-          "question": "Can I avoid Saros eclipse pressure when needed?",
-          "answer": "Yes, Saros progression planning lets you manage when to push eclipse intensity and when to prioritize safer consistency routes."
+          "question": "How does Saros corruption interact with the Power Weapon?",
+          "answer": "In Saros, corruption is both threat and resource. Absorbing corrupted shots can feed the Power Weapon, but stored corruption temporarily drains maximum armor until you fire and cleanse it."
         },
         {
-          "question": "What is the best Saros eclipse strategy for new players?",
-          "answer": "Start Saros eclipse escalation only after your base survivability loop is stable, then increase risk gradually while tracking return value."
+          "question": "Why is the Saros Eclipse system so important?",
+          "answer": "The Saros Eclipse links combat, route planning, hazards, loot value, audio, and visible corruption into one unified system instead of separate mechanics."
         }
       ]
     },
