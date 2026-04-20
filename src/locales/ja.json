@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "ガイド",
-    "crafting": "クラフト",
-    "items": "アイテム",
-    "biomes": "バイオーム",
-    "building": "建築",
-    "support": "サポート"
+    "release": "Release",
+    "platforms": "Platforms",
+    "guide": "Guide",
+    "editions": "Editions",
+    "reviews": "Reviews",
+    "media": "Media",
+    "cast": "Cast",
+    "studio": "Studio"
   },
   "common": {
     "home": "ホーム",

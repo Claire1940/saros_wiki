@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "Rehberler",
-    "crafting": "Üretim",
-    "items": "Eşyalar",
-    "biomes": "Biyomlar",
-    "building": "İnşa",
-    "support": "Destek"
+    "release": "Release",
+    "platforms": "Platforms",
+    "guide": "Guide",
+    "editions": "Editions",
+    "reviews": "Reviews",
+    "media": "Media",
+    "cast": "Cast",
+    "studio": "Studio"
   },
   "common": {
     "home": "Ana Sayfa",

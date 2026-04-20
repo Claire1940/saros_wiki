@@ -10,7 +10,16 @@
       "twitterDescription": "Track Saros release updates, trailers, story guides, combat tips, and PS5 Pro highlights."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "platforms": "Platforms",
+    "guide": "Guide",
+    "editions": "Editions",
+    "reviews": "Reviews",
+    "media": "Media",
+    "cast": "Cast",
+    "studio": "Studio"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -739,125 +748,165 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Saros Guides",
-      "description": "Core Saros guides covering release milestones, story setup, progression flow, and practical first-week priorities.",
-      "metaTitle": "Saros Guides - Launch, Story, Combat, and Progression",
-      "metaDescription": "Read Saros guides for release timeline tracking, story context, combat loop basics, and progression planning.",
-      "categoryLabel": "SAROS GUIDES",
-      "whatIs": "What are Saros Guides?",
-      "whatIsDescription": "Saros Guides collect launch information, combat understanding, and progression strategy so you can move from basics to advanced run planning.",
-      "why": "Why read Saros guides?",
+    "release": {
+      "title": "Saros Release",
+      "description": "Track Saros release date timing, preload windows, demo news, and launch-day schedule updates in one timeline.",
+      "metaTitle": "Saros Release - Date, Time, Preload, and Launch Timeline",
+      "metaDescription": "Follow Saros release coverage for date changes, preload timing, early access details, and official launch schedule updates.",
+      "categoryLabel": "SAROS RELEASE",
+      "whatIs": "What is Saros Release?",
+      "whatIsDescription": "Saros Release pages collect official launch milestones, date changes, preload timing, and edition-based access windows so players can plan exactly when to start.",
+      "why": "Why follow Saros release pages?",
       "whySteps": {
-        "step1Title": "Learn Saros Fundamentals",
-        "step1Description": "Understand Saros release context, loop structure, and core mission setup",
-        "step2Title": "Plan Saros Progression",
-        "step2Description": "Use route-based advice to improve Saros run consistency",
-        "step3Title": "Track Saros Updates",
-        "step3Description": "Keep Saros planning aligned with official posts and new feature reveals"
+        "step1Title": "Track Saros Launch Milestones",
+        "step1Description": "See Saros date announcements, timeline updates, and release-week checkpoints in chronological order.",
+        "step2Title": "Plan Saros Start Time",
+        "step2Description": "Use Saros preload and release-time coverage to prepare storage, downloads, and first-session scheduling.",
+        "step3Title": "Compare Saros Access Windows",
+        "step3Description": "Understand how Saros standard launch and edition-based early access windows differ before release day."
       },
       "featured": "Featured & Essential",
-      "all": "All Saros Guides"
+      "all": "All Saros Release Articles"
     },
-    "crafting": {
-      "title": "Saros Combat Systems",
-      "description": "Break down Saros combat pacing, shield conversion, weapon flow, and encounter control under escalating pressure.",
-      "metaTitle": "Saros Combat Systems - Shield Loop, Weapons, and Boss Pacing",
-      "metaDescription": "Master Saros combat fundamentals including movement discipline, shield conversion, power windows, and biome pressure control.",
-      "categoryLabel": "SAROS COMBAT",
-      "whatIs": "What is Saros Combat?",
-      "whatIsDescription": "Saros combat blends high projectile pressure, precise movement, and tactical conversion of defense into burst offense.",
-      "why": "Why study Saros combat?",
-      "whySteps": {
-        "step1Title": "Improve Saros Survival",
-        "step1Description": "Build stable movement and defense habits in Saros encounters",
-        "step2Title": "Increase Saros Damage",
-        "step2Description": "Turn Saros shield absorption into stronger offensive windows",
-        "step3Title": "Control Saros Boss Tempo",
-        "step3Description": "Approach Saros boss phases with planned burst and recovery pacing"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Saros Combat Articles"
-    },
-    "items": {
-      "title": "Saros Characters and Editions",
-      "description": "Explore Saros cast details, protagonist context, and pre-order edition differences in one organized knowledge base.",
-      "metaTitle": "Saros Characters and Editions - Cast, Bonuses, and Access",
-      "metaDescription": "Track Saros protagonist and cast details, edition comparisons, bonus content, and early access differences.",
-      "categoryLabel": "SAROS CAST & EDITIONS",
-      "whatIs": "What is this Saros section?",
-      "whatIsDescription": "This Saros section combines people, edition options, and launch access details so players can make clearer pre-launch decisions.",
-      "why": "Why use this Saros section?",
-      "whySteps": {
-        "step1Title": "Learn Saros Character Context",
-        "step1Description": "Understand Saros lead and supporting cast relevance",
-        "step2Title": "Compare Saros Editions",
-        "step2Description": "Choose the Saros package that matches your launch-week goals",
-        "step3Title": "Plan Saros Access Timing",
-        "step3Description": "Use Saros edition timing to align your first-session schedule"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Saros Character and Edition Articles"
-    },
-    "biomes": {
-      "title": "Saros Story and World",
-      "description": "Understand Saros worldbuilding, Carcosa structure, narrative clues, and eclipse-linked thematic direction.",
-      "metaTitle": "Saros Story and World - Carcosa, Arjun, and Eclipse Context",
-      "metaDescription": "Read Saros story and setting coverage with Carcosa lore, character context, and narrative progression framing.",
-      "categoryLabel": "SAROS STORY",
-      "whatIs": "What is Saros Story and World?",
-      "whatIsDescription": "Saros Story and World coverage explains protagonist motivation, planetary mystery, and how repeated runs carry narrative weight.",
-      "why": "Why follow Saros story pages?",
-      "whySteps": {
-        "step1Title": "Understand Saros Context",
-        "step1Description": "Learn why Saros missions and losses matter in the larger plot",
-        "step2Title": "Connect Saros Systems",
-        "step2Description": "See how Saros progression and story reinforce each other",
-        "step3Title": "Track Saros Lore Signals",
-        "step3Description": "Capture Saros clues from trailers, dialogue, and official updates"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Saros Story Articles"
-    },
-    "building": {
-      "title": "Saros Platforms and Tech",
-      "description": "Track Saros platform scope, PS5 Pro enhancement notes, and practical setup expectations for launch.",
-      "metaTitle": "Saros Platforms and Tech - PS5, PS5 Pro, and Feature Coverage",
-      "metaDescription": "Follow Saros platform status, PS5 Pro feature details, and technical guidance for launch-day readiness.",
+    "platforms": {
+      "title": "Saros Platforms",
+      "description": "Explore Saros platform availability across PS5, PC rumors, and hardware-specific feature expectations.",
+      "metaTitle": "Saros Platforms - PS5, PS5 Pro, Steam, Xbox, and Switch Status",
+      "metaDescription": "Review Saros platform coverage including PS5 availability, PS5 Pro features, and current Steam, Xbox, and Switch status.",
       "categoryLabel": "SAROS PLATFORMS",
-      "whatIs": "What is Saros Platforms and Tech?",
-      "whatIsDescription": "This Saros category tracks confirmed platform scope, hardware-specific features, and practical setup notes for players.",
-      "why": "Why track Saros platform details?",
+      "whatIs": "What is Saros Platforms?",
+      "whatIsDescription": "Saros Platforms pages focus on where Saros can be played and how each platform status affects launch expectations, performance targets, and buying decisions.",
+      "why": "Why check Saros platform pages?",
       "whySteps": {
         "step1Title": "Confirm Saros Availability",
-        "step1Description": "Verify where Saros can be played at launch",
-        "step2Title": "Understand Saros PS5 Pro Features",
-        "step2Description": "Review Saros enhancement priorities before starting",
-        "step3Title": "Prepare Saros Launch Setup",
-        "step3Description": "Use Saros technical guidance to reduce first-day friction"
+        "step1Description": "Get a clear Saros platform picture before purchase, including confirmed and unconfirmed systems.",
+        "step2Title": "Understand Saros Hardware Differences",
+        "step2Description": "Compare Saros PS5 and PS5 Pro feature notes to set the right visual and performance expectations.",
+        "step3Title": "Avoid Saros Platform Confusion",
+        "step3Description": "Use Saros platform updates to separate official launch support from speculation and outdated claims."
       },
       "featured": "Featured & Essential",
       "all": "All Saros Platform Articles"
     },
-    "support": {
-      "title": "Saros Support",
-      "description": "Get Saros support for launch questions, platform status checks, and practical issue-tracking workflows.",
-      "metaTitle": "Saros Support - Launch Questions and Platform Help",
-      "metaDescription": "Use Saros support pages for release FAQ, platform status, and troubleshooting-oriented launch guidance.",
-      "categoryLabel": "SAROS SUPPORT",
-      "whatIs": "What is Saros Support?",
-      "whatIsDescription": "Saros Support collects practical answers around launch scope, platform details, and issue-reporting routes for players.",
-      "why": "Why check Saros support?",
+    "guide": {
+      "title": "Saros Guide",
+      "description": "Learn Saros gameplay fundamentals, progression flow, trophies, difficulty curve, and run-planning strategies.",
+      "metaTitle": "Saros Guide - Gameplay, Difficulty, Bosses, Trophies, and Run Strategy",
+      "metaDescription": "Read the Saros guide hub for gameplay systems, boss pressure management, trophy planning, and practical run-by-run progression advice.",
+      "categoryLabel": "SAROS GUIDE",
+      "whatIs": "What is Saros Guide?",
+      "whatIsDescription": "Saros Guide pages explain core mechanics, encounter pacing, and long-run decision making so players can improve consistency from first run to late-game attempts.",
+      "why": "Why read Saros guide pages?",
       "whySteps": {
-        "step1Title": "Resolve Saros Questions Quickly",
-        "step1Description": "Get direct answers to common Saros launch questions",
-        "step2Title": "Track Saros Platform Scope",
-        "step2Description": "Keep Saros setup aligned with current official platform updates",
-        "step3Title": "Use Saros Reporting Channels",
-        "step3Description": "Know where to send Saros feedback and issue reports effectively"
+        "step1Title": "Build Saros Core Skills",
+        "step1Description": "Practice Saros movement, combat rhythm, and risk management with focused topic-by-topic guidance.",
+        "step2Title": "Improve Saros Run Efficiency",
+        "step2Description": "Use Saros route and priority tips to reduce wasted attempts and reach key milestones faster.",
+        "step3Title": "Plan Saros Trophy Progress",
+        "step3Description": "Follow Saros trophy and objective coverage to organize completion goals across repeated runs."
       },
       "featured": "Featured & Essential",
-      "all": "All Saros Support Articles"
+      "all": "All Saros Guide Articles"
+    },
+    "editions": {
+      "title": "Saros Editions",
+      "description": "Compare Saros standard and deluxe options, pre-order bonuses, prices, and early access differences.",
+      "metaTitle": "Saros Editions - Standard vs Deluxe, Price, Bonus, and Early Access",
+      "metaDescription": "Use Saros editions coverage to compare package content, pricing, pre-order rewards, and early access timing before buying.",
+      "categoryLabel": "SAROS EDITIONS",
+      "whatIs": "What is Saros Editions?",
+      "whatIsDescription": "Saros Editions pages break down each purchasable version, bonus content, and access timing so you can choose the package that matches your launch goals.",
+      "why": "Why compare Saros editions here?",
+      "whySteps": {
+        "step1Title": "Match Saros Edition to Budget",
+        "step1Description": "Review Saros package pricing and included content to pick the version that fits your spending plan.",
+        "step2Title": "Evaluate Saros Bonus Value",
+        "step2Description": "Understand which Saros pre-order and deluxe bonuses matter for your first week experience.",
+        "step3Title": "Plan Saros Access Timing",
+        "step3Description": "Use Saros edition timing details to decide between standard launch access and early play windows."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Saros Edition Articles"
+    },
+    "reviews": {
+      "title": "Saros Reviews",
+      "description": "Follow Saros review coverage, preview impressions, embargo timing, and player sentiment trends.",
+      "metaTitle": "Saros Reviews - Previews, Embargo, Metacritic, and Player Reactions",
+      "metaDescription": "Track Saros reviews with media previews, embargo timing, critic score discussion, and community reaction snapshots.",
+      "categoryLabel": "SAROS REVIEWS",
+      "whatIs": "What is Saros Reviews?",
+      "whatIsDescription": "Saros Reviews pages organize critic previews, launch reviews, and player reaction references to help you understand reception from multiple perspectives.",
+      "why": "Why use Saros review pages?",
+      "whySteps": {
+        "step1Title": "Read Saros Critical Feedback",
+        "step1Description": "Scan Saros preview and review coverage to understand strengths, concerns, and recurring discussion points.",
+        "step2Title": "Track Saros Score Context",
+        "step2Description": "Use Saros score and embargo pages to interpret review momentum around launch without missing timing context.",
+        "step3Title": "Compare Saros Community Reactions",
+        "step3Description": "Combine Saros critic and player discussions to decide whether the game fits your playstyle preferences."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Saros Review Articles"
+    },
+    "media": {
+      "title": "Saros Media",
+      "description": "Browse Saros trailers, gameplay showcases, Q&A clips, and official video coverage in one media hub.",
+      "metaTitle": "Saros Media - Trailers, Gameplay Overview, Q&A, and Video Library",
+      "metaDescription": "Watch Saros media coverage including cinematic trailers, gameplay reveals, feature clips, and official Q&A videos.",
+      "categoryLabel": "SAROS MEDIA",
+      "whatIs": "What is Saros Media?",
+      "whatIsDescription": "Saros Media pages collect official video assets and key visual materials so you can follow new footage, compare trailer messaging, and revisit major reveals.",
+      "why": "Why follow Saros media pages?",
+      "whySteps": {
+        "step1Title": "Track Saros Visual Updates",
+        "step1Description": "Catch every Saros trailer and showcase release in one place instead of searching across multiple channels.",
+        "step2Title": "Compare Saros Reveal Phases",
+        "step2Description": "Review Saros cinematic, gameplay, and feature videos to see how core messaging changed over time.",
+        "step3Title": "Reference Saros Official Clips",
+        "step3Description": "Use Saros media pages as a quick index when sharing trailers or checking specific moments again."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Saros Media Articles"
+    },
+    "cast": {
+      "title": "Saros Cast",
+      "description": "Discover Saros cast details, lead actor information, and character-related reference pages.",
+      "metaTitle": "Saros Cast - Lead Actor, Voice Talent, and Character References",
+      "metaDescription": "Explore Saros cast coverage including lead actor details, voice information, and key character references.",
+      "categoryLabel": "SAROS CAST",
+      "whatIs": "What is Saros Cast?",
+      "whatIsDescription": "Saros Cast pages focus on actors, voice talent, and character identity references so players can quickly map the people behind the story presentation.",
+      "why": "Why read Saros cast pages?",
+      "whySteps": {
+        "step1Title": "Identify Saros Lead Talent",
+        "step1Description": "See who fronts Saros performances and how key cast roles connect to major story beats.",
+        "step2Title": "Track Saros Voice Details",
+        "step2Description": "Use Saros cast references to follow voice and performance credits across official announcements.",
+        "step3Title": "Build Saros Character Context",
+        "step3Description": "Pair Saros cast pages with story coverage to understand character focus before launch."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Saros Cast Articles"
+    },
+    "studio": {
+      "title": "Saros Studio",
+      "description": "Learn about the Saros development team, production background, and Unreal Engine 5 technology notes.",
+      "metaTitle": "Saros Studio - Housemarque Team, Development, and Unreal Engine 5",
+      "metaDescription": "Read Saros studio coverage for Housemarque background, development direction, and Unreal Engine 5 production context.",
+      "categoryLabel": "SAROS STUDIO",
+      "whatIs": "What is Saros Studio?",
+      "whatIsDescription": "Saros Studio pages explain who is building the game, which technology stack is used, and how developer direction shapes Saros design decisions.",
+      "why": "Why follow Saros studio pages?",
+      "whySteps": {
+        "step1Title": "Understand Saros Development Direction",
+        "step1Description": "See how Saros production goals and team background connect to gameplay and narrative priorities.",
+        "step2Title": "Track Saros Technical Foundation",
+        "step2Description": "Follow Saros Unreal Engine 5 coverage to understand rendering, performance, and pipeline context.",
+        "step3Title": "Follow Saros Team Updates",
+        "step3Description": "Use Saros studio pages to monitor developer statements and production-focused news in one stream."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Saros Studio Articles"
     }
   }
 }
